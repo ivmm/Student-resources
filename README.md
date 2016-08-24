@@ -32,5 +32,5 @@
 *   **[Office in Education](https://products.office.com/en-us/student?tab=students)**，微软家提供的免费 Office 365 教育优惠，中国大多数学校无缘申请。
 *   **[阿里云 云翼计划](https://promotion.aliyun.com/ntms/campus.html)**，9.87元一个月的 ECS 云服务器租用，未来会上线更多学生优惠
 *   **[腾讯 云+校园计划](https://www.qcloud.com/act/campus)**，1元一个月的云服务器租用，和免费的顶级域名服务
-*   **[苹果教育商店](http://www.apple.com/cn-k12/shop)**，以优惠的价格官网购入绝对原装的 i 系列设备和 Mac 设备，暑假活动从 Beats 耳机
+*   **[苹果教育商店](http://www.apple.com/cn-k12/shop)**，以优惠的价格官网购入绝对原装的 i 系列设备和 Mac 设备，暑假活动送 Beats 耳机
 *   **[微软教育商店](https://www.microsoftstore.com.cn/student?Icid=StoreNavi_EDU)**，9折购买微软旗下的各种硬件设备
