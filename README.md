@@ -18,6 +18,8 @@
 
 # 学生包
 
+已经许多年的发展，很多学生包已经不单单要求 edu 邮箱了，或者说 edu.cn 反而会降低申请成功率。 建议使用学生证、入学通知书等有学院官方标志和日期的工具来证明自己的身份。
+
 *   **[Github 学生包](https://education.github.com/pack)**，高质量的开发工具集合，并提供 DIgitalocean 的 50美元代金券，免费域名一枚。
 *   **[DreamSpark 学生包](https://www.dreamspark.com/student/default.aspx)**，免费使用微软的开发软件，包括 Windows Server 系统，以及 Azure 学生订阅。
 *   **[Autodesk 学生包](http://www.autodesk.com.cn/education/home)**，旗下 AutoCAD , 3DMAX , Maya 等软件，其（教育版）免费试用期可延长至三年。
