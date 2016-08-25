@@ -34,3 +34,4 @@
 *   **[腾讯 云+校园计划](https://www.qcloud.com/act/campus)**，1元一个月的云服务器租用，和免费的顶级域名服务
 *   **[苹果教育商店](http://www.apple.com/cn-k12/shop)**，以优惠的价格官网购入绝对原装的 i 系列设备和 Mac 设备，暑假活动送 Beats 耳机
 *   **[微软教育商店](https://www.microsoftstore.com.cn/student?Icid=StoreNavi_EDU)**，9折购买微软旗下的各种硬件设备
+*   **[onTheHub 教育商店](http://www.onthehub.com/)**，美帝学校有免费 Win 和 Office，中国只有少数软件的优惠
