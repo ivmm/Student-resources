@@ -24,7 +24,7 @@
 *   **[七牛青葱创业效率资源包](https://hd.qiniu.com/qingcong)**，免费使用国内众多开发工具，包括七牛的 1000 元代金券
 
 # 学生优惠
-
+*   **[Xmind](http://www.xmind.net/blog/en/2016/09/great-gift-1-for-xmind-plus-to-students/)**，$1 超棒的思维导图，9.5~9.12 日 限时优惠。
 *   **[赛尔校园先锋](http://shop.edu.cn/)**，以绝对优惠的价格获得 Adobe 软件、Win、Office 正版授权
 *   **[Office in Education](https://products.office.com/en-us/student?tab=students)**，微软家提供的免费 Office 365 教育优惠，中国大多数学校无缘申请。
 *   **[阿里云 云翼计划](https://promotion.aliyun.com/ntms/campus.html)**，9.87元一个月的 ECS 云服务器租用，未来会上线更多学生优惠
