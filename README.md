@@ -17,7 +17,7 @@
 已经许多年的发展，很多学生包已经不单单要求 edu 邮箱了，或者说 edu.cn 反而会降低申请成功率。 建议使用学生证、入学通知书等有学院官方标志和日期的工具来证明自己的身份。
 
 *   **[Github 学生包](https://education.github.com/pack)**，高质量的开发工具集合，并提供 DIgitalocean 的 50美元代金券，免费域名一枚。
-*   **[DreamSpark 学生包](https://www.dreamspark.com/student/default.aspx)**，免费使用微软的开发软件，包括 Windows Server 系统，以及 Azure 学生订阅。
+*   **[Microsoft Imagine 学生包](https://www.dreamspark.com/student/default.aspx)**，免费使用微软的开发软件，包括 Windows Server 系统，以及 Azure 学生订阅。
 *   **[AWS 学生包](https://aws.amazon.com/cn/education/awseducate/)**，亚马逊云计算的学生包，可以获得至少 $40 的优惠和教育培训
 *   **[Autodesk 学生包](http://www.autodesk.com.cn/education/home)**，旗下 AutoCAD , 3DMAX , Maya 等软件，其（教育版）免费试用期可延长至三年。
 *   **[JetBrains 学生包](https://www.jetbrains.com/student/)**，免费使用各类开发工具和集成工具。
@@ -31,7 +31,7 @@
 *   **[腾讯 云+校园计划](https://www.qcloud.com/act/campus)**，1元一个月的云服务器租用，和免费的顶级域名服务
 *   **[苹果教育商店](http://www.apple.com/cn-k12/shop)**，以优惠的价格官网购入绝对原装的 i 系列设备和 Mac 设备，暑假活动送 Beats 耳机
 *   **[微软教育商店](https://www.microsoftstore.com.cn/student?Icid=StoreNavi_EDU)**，9折购买微软旗下的各种硬件设备
-*   **[OnTheHub 教育商店](http://www.onthehub.com/)**，美帝学校有免费 Win 和 Office，中国只有少数软件的优惠
+*   **[OnTheHub 教育商店](http://www.onthehub.com/)**，PD 和 VMware 的虚拟机优惠，以及更多软件优惠。
 *   **[SiteGroud 学生计划](https://www.siteground.com/student-hosting.htm)**，WP 官方推荐的主机托管商提供 $1.99/月 高性能 CP 托管
 
 # 实用干货
