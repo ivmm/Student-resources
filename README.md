@@ -40,7 +40,6 @@
 *   **[Autodesk 学生包](http://www.autodesk.com.cn/education/home)**，旗下 AutoCAD , 3DMAX , Maya 等软件，其（教育版）免费试用期可延长至三年。
 *   **[JetBrains 学生包](https://www.jetbrains.com/student/)**，免费使用各类开发工具和集成工具。
 *   **[G Suite for Education](https://edu.google.com/products/productivity-tools/)**，为教育用户提供的谷歌生产力工具套件
-*   **[Amazon Prime Student](https://edu.google.com/products/productivity-tools/)**，亚马逊 Prime 学生优惠
 
 # 学生优惠
 
@@ -64,7 +63,7 @@
 
 *   **[WPS Office 企业版](https://store.wps.cn/?from=www.mf8.biz)**，免费企业版，无广告的清爽 WPS，赶走 MS Office
 *   **[CloudConvert](https://cloudconvert.com/)**，转码神器，格式齐全的在线转码利器！
-*   **[Smallpdf](https://cloudconvert.com/)**，专业文档转PDF，PDF转文档神器！
+*   **[Smallpdf](https://smallpdf.com/)**，专业文档转PDF，PDF转文档神器！
 
 # 学习技能
 
