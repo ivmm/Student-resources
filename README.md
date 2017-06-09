@@ -46,8 +46,8 @@
 *   **[赛尔校园先锋](http://shop.edu.cn/)**，以绝对优惠的价格获得 Adobe 软件、Win、Office 正版授权
 *   **[Office in Education](https://products.office.com/en-us/student?tab=students)**，微软家提供的免费 Office 365 教育优惠，中国大多数学校无缘申请。
 *   **[阿里云 云翼计划](https://promotion.aliyun.com/ntms/campus2017.html)**，118元/年，阿里云ECS+OSS+域名+机器学习API+Clouder认证
-*   **[腾讯 云+校园计划](https://www.qcloud.com/act/campus)**，1元一个月的云服务器租用，和免费的顶级域名服务
-*   **[苹果教育商店](http://www.apple.com/cn-k12/shop)**，苹果设备优惠，Music和 Pro APP 优惠，暑假还会有学生优惠大促销
+*   **[腾讯 云+校园计划](https://www.qcloud.com/act/campus)**，10元一个月的云服务器租用，免费域名、云储存，需要抢购
+*   **[苹果教育商店](http://www.apple.com/cn-k12/shop)**，苹果设备优惠，Music和 Pro APP 优惠，暑假还会有学生优惠大促销
 *   **[微软教育商店](https://www.microsoftstore.com.cn/student?Icid=StoreNavi_EDU)**，9折购买微软旗下的各种硬件设备
 *   **[OnTheHub 教育商店](http://www.onthehub.com/)**，PD 和 VMware 的虚拟机优惠，以及更多软件优惠。
 *   **[SiteGroud 学生计划](https://www.siteground.com/student-hosting.htm)**，WP 官方推荐的主机托管商提供 $1.99/月 高性能 CP 托管
