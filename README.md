@@ -41,7 +41,6 @@
 *   **[JetBrains 学生包](https://www.jetbrains.com/student/)**，免费使用各类开发工具和集成工具。
 *   **[G Suite for Education](https://edu.google.com/products/productivity-tools/)**，为教育用户提供的谷歌生产力工具套件
 *   **[Amazon Prime Student](https://edu.google.com/products/productivity-tools/)**，亚马逊 Prime 学生优惠
-*   **[七牛青葱创业效率资源包](https://hd.qiniu.com/qingcong)**，免费使用国内众多开发工具，包括七牛的 1000 元代金券
 
 # 学生优惠
 
