@@ -52,7 +52,7 @@
 *   **[OnTheHub 教育商店](http://www.onthehub.com/)**，PD 和 VMware 的虚拟机优惠，以及更多软件优惠。
 *   **[SiteGroud 学生计划](https://www.siteground.com/student-hosting.htm)**，WP 官方推荐的主机托管商提供 $1.99/月 高性能 CP 托管
 *   **[Spotify 学生优惠](https://www.spotify.com/hk-zh/student/)**，Spotify Premium学生订阅半价优惠
-*   **[Pantheon 学生版](https://www.spotify.com/hk-zh/student/)**，专业高性能网站托管的学生优惠
+*   **[Pantheon 学生版](https://pantheon.io/edu)**，专业高性能网站托管的学生优惠
 
 # 实用干货
 
