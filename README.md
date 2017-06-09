@@ -1,4 +1,4 @@
-![](https://github.com/ivmm/Student-resources/blob/master/images/Student--resources-version%206-green.png?raw=true)![](https://github.com/ivmm/Student-resources/blob/master/images/from-mf8.biz-ff69b4.png?raw=true)
+![](https://img.shields.io/badge/Student--resources-version%206-green.svg?style=flat)  ![](https://img.shields.io/badge/from-mf8.biz-ff69b4.svg?style=flat)
 
 ![](https://raw.githubusercontent.com/ivmm/Student-resources/master/Student-resources-min.png)
 
