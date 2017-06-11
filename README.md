@@ -47,7 +47,7 @@
 *   **[赛尔校园先锋](http://shop.edu.cn/)**，以绝对优惠的价格获得 Adobe 软件、Win、Office 正版授权
 *   **[Office in Education](https://products.office.com/en-us/student?tab=students)**，微软家提供的免费 Office 365 教育优惠，中国大多数学校无缘申请。
 *   **[阿里云 云翼计划](https://promotion.aliyun.com/ntms/campus2017.html)**，118元/年，阿里云ECS+OSS+域名+机器学习API+Clouder认证
-*   **[腾讯 云+校园计划](https://www.qcloud.com/act/campus)**，10元一个月的云服务器租用，免费域名、云储存，需要抢购
+*   **[腾讯云+校园计划](https://www.qcloud.com/act/campus)**，10元一个月的云服务器租用，免费域名、云储存，需要抢购
 *   **[苹果教育商店](http://www.apple.com/cn-k12/shop)**，苹果设备优惠，Music和 Pro APP 优惠，暑假还会有学生优惠大促销
 *   **[微软教育商店](https://www.microsoftstore.com.cn/student?Icid=StoreNavi_EDU)**，9折购买微软旗下的各种硬件设备
 *   **[OnTheHub 教育商店](http://www.onthehub.com/)**，PD 和 VMware 的虚拟机优惠，以及更多软件优惠。
@@ -62,17 +62,19 @@
 *   **[Minecraft](http://education.minecraft.net/get-started)**， 我的世界教育免费版～ ，仅支持邮箱
 # 推荐软件
 
-*   **[WPS Office 企业版](https://store.wps.cn/?from=www.mf8.biz)**，免费企业版，无广告的清爽 WPS，赶走 MS Office
 *   **[CloudConvert](https://cloudconvert.com/)**，转码神器，格式齐全的在线转码利器！
 *   **[Smallpdf](https://smallpdf.com/)**，专业文档转PDF，PDF转文档神器！
 
-# 学习技能
+# 相关推荐
+
+**买电脑：**《[或许是最详细的学生购买笔记本购买参考](http://www.toutiao.com/i6430265970773721602/)》
 
 **如何科学提问：**《[提问的智慧](http://git.oschina.net/mifar/How-To-Ask-Questions-The-Smart-Way)》
 
 **搜索引擎：** 为了你的身体健康、事业有成，请尽量减少使用百度的频率。
 
 **PPT 制作：**《[放 PPT 之前，请你注意这一些！](https://www.mf8.biz/ppt-tips/)》
+
 
 
 作者博客：https://www.mf8.biz/
