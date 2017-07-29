@@ -40,7 +40,7 @@
 *   **[AWS 学生包](https://aws.amazon.com/cn/education/awseducate/)**，亚马逊云计算的学生包，可以获得至少 $40 的优惠和教育培训
 *   **[Autodesk 学生包](http://www.autodesk.com.cn/education/home)**，旗下 AutoCAD , 3DMAX , Maya 等软件，其（教育版）免费试用期可延长至三年。
 *   **[JetBrains 学生包](https://www.jetbrains.com/student/)**，免费使用各类开发工具和集成工具。
-*   **[G Suite for Education](https://edu.google.com/products/productivity-tools/)**，为教育用户提供的谷歌生产力工具套件
+*   **[G Suite for Education](https://edu.google.com/products/productivity-tools/)**，为教育用户提供的谷歌生产力工具套件（大陆不在申请区之内）
 
 # 学生优惠
 
@@ -55,6 +55,7 @@
 *   **[SiteGroud 学生计划](https://www.siteground.com/student-hosting.htm)**，WP 官方推荐的主机托管商提供 $1.99/月 高性能 CP 托管
 *   **[Spotify 学生优惠](https://www.spotify.com/hk-zh/student/)**，Spotify Premium学生订阅半价优惠
 *   **[Pantheon 学生版](https://pantheon.io/edu)**，专业高性能网站托管的学生优惠
+*   **[大疆教育优惠](http://coupon.dji.com/cn/edu)**，大疆产品的教育折扣
 
 # 实用干货
 
