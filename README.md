@@ -6,7 +6,9 @@
 
 本文介绍的是利用学生身份可以享受到的相关学生优惠权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠资格，使得其他同学无法受益。
 
-**欢迎提交 issue 给我们你发现的实用资源！** | 本文更新于 2017 年 6 月 9 日 第六次
+**欢迎提交 issue 给我们你发现的实用资源！** | 本文更新于 2017 年 8 月 28 日
+
+点击 `watch` 可以得到更新信息哟！
 
 # 注意点
 
@@ -49,6 +51,7 @@
 - **[阿里云 云翼计划](https://promotion.aliyun.com/ntms/campus2017.html)**，118元/年，阿里云ECS+OSS+域名+机器学习API+Clouder认证。
 - **[腾讯云+校园计划](https://www.qcloud.com/act/campus)**，10元一个月的云服务器租用，免费域名、云储存，需要抢购。
 - **[美团云 云帆校园](https://www.mtyun.com/activity-school)**，8.8元，1C1G1M + 50数据盘。
+- **[京东云 跃云计划](https://www.jcloud.com/activity/leapCloud)**，8.8元，1C2G1M + 30数据盘，年付送 com 域名。
 - **[苹果教育商店](http://www.apple.com/cn-k12/shop)**，苹果设备优惠，Music和 Pro APP 优惠，暑假还会有学生优惠大促销。
 - **[微软教育商店](https://www.microsoftstore.com.cn/student?Icid=StoreNavi_EDU)**，9折购买微软旗下的各种硬件设备。
 - **[OnTheHub 教育商店](http://www.onthehub.com/)**，PD 和 VMware 的虚拟机优惠，以及更多软件优惠。
