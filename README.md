@@ -59,6 +59,7 @@
 - **[Spotify 学生优惠](https://www.spotify.com/hk-zh/student/)**，Spotify Premium学生订阅半价优惠。
 - **[Pantheon 学生版](https://pantheon.io/edu)**，专业高性能网站托管的学生优惠。
 - **[大疆教育优惠](http://coupon.dji.com/cn/edu)**，大疆产品的教育折扣。
+- **[幕布笔记教育优惠](http://cn.mikecrm.com/BrUWPMy)**，幕布面向学生、公益组织和教育机构推出的专属优惠措施，高级版八折优惠。
 
 # 实用干货
 
