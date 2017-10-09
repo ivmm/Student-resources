@@ -43,6 +43,7 @@
 - **[Autodesk 学生包](http://www.autodesk.com.cn/education/home)**，旗下 AutoCAD , 3DMAX , Maya 等软件，其（教育版）免费试用期可延长至三年。
 - **[JetBrains 学生包](https://www.jetbrains.com/student/)**，免费使用各类开发工具和集成工具。
 - **[G Suite for Education](https://edu.google.com/products/productivity-tools/)**，为教育用户提供的谷歌生产力工具套件（大陆不在申请区之内）。
+- **[LINGO Ducational Research License](http://www.lindo.com/index.php?option=com_content&view=article&id=120&Itemid=45)**, LINGO 教育授权，著名线性与非线性求解器，求解优化模型的最佳选择，数学建模必备。
 
 # 学生优惠
 
