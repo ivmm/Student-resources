@@ -77,7 +77,8 @@
 
 # 相关推荐
 
-**买电脑：**《[或许是最详细的学生购买笔记本购买参考](http://www.toutiao.com/i6430265970773721602/)》
+**买电脑：**学生购买电脑多为笔记本，可关注笔记本吧http://tieba.baidu.com/f?kw=%E7%AC%94%E8%AE%B0%E6%9C%AC&ie=utf-8
+如果为台式可关注显卡吧/图拉丁吧/电脑吧等专业硬件社区，或直接关注微信公众号“笔吧评测室”，由笔记本吧吧主和吧务团队运营，质量保证。
 
 **如何科学提问：**《[提问的智慧](http://git.oschina.net/mifar/How-To-Ask-Questions-The-Smart-Way)》
 
