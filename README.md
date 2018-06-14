@@ -43,7 +43,7 @@
 - **[Autodesk 学生包](http://www.autodesk.com.cn/education/home)**，旗下 AutoCAD , 3DMAX , Maya 等软件，其（教育版）免费试用期可延长至三年。
 - **[JetBrains 学生包](https://www.jetbrains.com/student/)**，免费使用各类开发工具和集成工具。
 - **[G Suite for Education](https://edu.google.com/products/productivity-tools/)**，为教育用户提供的谷歌生产力工具套件（大陆不在申请区之内）。
-- **[LINGO Ducational Research License](http://www.lindo.com/index.php?option=com_content&view=article&id=120&Itemid=45)**, LINGO 教育授权，著名线性与非线性求解器，求解优化模型的最佳选择，数学建模必备。
+- **[LINGO Educational Research License](http://www.lindo.com/index.php?option=com_content&view=article&id=120&Itemid=45)**, LINGO 教育授权，著名线性与非线性求解器，求解优化模型的最佳选择，数学建模必备。
 
 # 学生优惠
 
@@ -51,8 +51,6 @@
 - **[Office in Education](https://products.office.com/en-us/student?tab=students)**，微软家提供的免费 Office 365 教育优惠，中国大多数学校无缘申请。
 - **[阿里云 云翼计划](https://promotion.aliyun.com/ntms/campus2017.html)**，118元/年，阿里云ECS+OSS+域名+机器学习API+Clouder认证。
 - **[腾讯云+校园计划](https://www.qcloud.com/act/campus)**，10元一个月的云服务器租用，免费域名、云储存，需要抢购。
-- **[美团云 云帆校园](https://www.mtyun.com/activity-school)**，8.8元，1C1G1M + 50数据盘。
-<del><ul><li><strong><a href="https://www.jcloud.com/activity/leapCloud">京东云 跃云计划</a></strong>，8.8元，1C2G1M + 30数据盘，年付送 com 域名。</li></ul></del>
 - **[苹果教育商店](http://www.apple.com/cn-k12/shop)**，苹果设备优惠，Music和 Pro APP 优惠，暑假还会有学生优惠大促销。
 - **[微软教育商店](https://www.microsoftstore.com.cn/student?Icid=StoreNavi_EDU)**，9折购买微软旗下的各种硬件设备。
 - **[OnTheHub 教育商店](http://www.onthehub.com/)**，PD 和 VMware 的虚拟机优惠，以及更多软件优惠。
@@ -61,6 +59,9 @@
 - **[Pantheon 学生版](https://pantheon.io/edu)**，专业高性能网站托管的学生优惠。
 - **[大疆教育优惠](http://coupon.dji.com/cn/edu)**，大疆产品的教育折扣。
 - **[幕布笔记教育优惠](http://cn.mikecrm.com/BrUWPMy)**，幕布面向学生、公益组织和教育机构推出的专属优惠措施，高级版八折优惠。
+- **[Todoist教育优惠](https://todoist.com/education)**，强大的任务、思路整理工具提供半价教育优惠。
+- **[SetAPP教育优惠](https://setapp.com/educational-discount)**，macOS 应用合集订阅包半价优惠，非常适合MAC学生党，每月4.99刀
+- 
 
 # 实用干货
 
@@ -88,4 +89,3 @@
 
 
 作者博客：https://www.mf8.biz/
-
