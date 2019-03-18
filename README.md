@@ -60,7 +60,7 @@
 - **[幕布笔记教育优惠](http://cn.mikecrm.com/BrUWPMy)**，幕布面向学生、公益组织和教育机构推出的专属优惠措施，高级版八折优惠。
 - **[Todoist教育优惠](https://todoist.com/education)**，强大的任务、思路整理工具提供半价教育优惠。
 - **[SetAPP教育优惠](https://setapp.com/educational-discount)**，macOS 应用合集订阅包半价优惠，非常适合MAC学生党，每月4.99刀
-- 
+- **[Eagle教育优惠](http://app.eagle.cool/forum/topic/5354/%E6%88%91%E6%98%AF%E5%AD%A6%E7%94%9F%E6%88%96%E6%95%99%E5%B8%88-%E6%98%AF%E5%90%A6%E4%BA%AB%E6%9C%89%E4%BC%98%E6%83%A0%E4%BB%B7%E6%A0%BC)**, Win/Mac系统，设计师图片管理工具，支持试用一个月，原价199，优惠价139，需提供身份和证件信息。优秀的本地图片管理工具，搭配学生版OneDrive进行同步管理，美滋滋。（目前已支持图片、视频、字体等类型文件的管理）
 
 # 实用干货
 
