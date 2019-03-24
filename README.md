@@ -48,9 +48,10 @@
 # 学生优惠
 
 - **[Office in Education](https://products.office.com/en-us/student?tab=students)**，微软家提供的免费 Office 365 教育优惠，中国大多数学校无缘申请。
-- **[阿里云+云翼计划](https://promotion.aliyun.com/ntms/act/xsgroup/buy.html?group=LOOm2o2F9T)**，118元/年，阿里云ECS+OSS+域名+机器学习API+Clouder认证。  24岁以下实名认证即可获得，无需验证学生身份!!
+- **[阿里云+云翼计划](https://promotion.aliyun.com/ntms/act/xsgroup/buy.html?group=h2neBpEial)**，118元/年，阿里云ECS+OSS+域名+机器学习API+Clouder认证。  24岁以下实名认证即可获得，无需验证学生身份!!
 - **[腾讯云+校园计划](https://www.qcloud.com/act/campus)**，10元一个月的云服务器租用，免费域名、云储存，需要抢购。
-- **[华为云+云创校园计划](https://developer.huaweicloud.com/campus)**，云服务器、EI大数据、云数据库、云容器、云中间件套餐，基本9元/月，地域大都在北京、上海、广州，24岁及以下免学生认证，实名认证即可购买，需要抢购。
+- **[华为云+云创校园计划](https://developer.huaweicloud.com/campus)**，9元/月 24岁及以下免学生认证，实名认证即可购买，需要抢购。
+- **[百度云启航校园计划](https://cloud.baidu.com/campaign/campus-2018/index.html)**，云服务器半年124元
 - **[苹果教育商店](http://www.apple.com/cn-k12/shop)**，苹果设备优惠，Music和 Pro APP 优惠，暑假还会有学生优惠大促销。
 - **[微软教育商店](https://www.microsoftstore.com.cn/student?Icid=StoreNavi_EDU)**，9折购买微软旗下的各种硬件设备。
 - **[OnTheHub 教育商店](http://www.onthehub.com/)**，PD 和 VMware 的虚拟机优惠，以及更多软件优惠。
@@ -58,7 +59,6 @@
 - **[Spotify 学生优惠](https://www.spotify.com/hk-zh/student/)**，Spotify Premium学生订阅半价优惠。
 - **[Pantheon 学生版](https://pantheon.io/edu)**，专业高性能网站托管的学生优惠。
 - **[大疆教育优惠](http://coupon.dji.com/cn/edu)**，大疆产品的教育折扣。
-- **[幕布笔记教育优惠](http://cn.mikecrm.com/BrUWPMy)**，幕布面向学生、公益组织和教育机构推出的专属优惠措施，高级版八折优惠。
 - **[Todoist教育优惠](https://todoist.com/education)**，强大的任务、思路整理工具提供半价教育优惠。
 - **[SetAPP教育优惠](https://setapp.com/educational-discount)**，macOS 应用合集订阅包半价优惠，非常适合MAC学生党，每月4.99刀
 - **[Eagle教育优惠](http://app.eagle.cool/forum/topic/5354/%E6%88%91%E6%98%AF%E5%AD%A6%E7%94%9F%E6%88%96%E6%95%99%E5%B8%88-%E6%98%AF%E5%90%A6%E4%BA%AB%E6%9C%89%E4%BC%98%E6%83%A0%E4%BB%B7%E6%A0%BC)**, Win/Mac系统，设计师图片管理工具，支持试用一个月，原价199，优惠价139，需提供身份和证件信息。优秀的本地图片管理工具，搭配学生版OneDrive进行同步管理，美滋滋。（目前已支持图片、视频、字体等类型文件的管理）
