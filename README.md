@@ -75,6 +75,7 @@
 
 - **[CloudConvert](https://cloudconvert.com/)**，转码神器，格式齐全的在线转码利器。
 - **[Smallpdf](https://smallpdf.com/)**，专业文档转PDF，PDF转文档神器。
+- **[Canvas File Sync](https://github.com/drew-royster/canvasFileSync)**，Syncs Canvas-LMS课程文件
 
 # 相关推荐
 
