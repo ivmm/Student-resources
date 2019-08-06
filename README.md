@@ -78,6 +78,11 @@
 - **[Smallpdf](https://smallpdf.com/)**，专业文档转PDF，PDF转文档神器。
 - **[Canvas File Sync](https://github.com/drew-royster/canvasFileSync)**，Syncs Canvas-LMS课程文件
 
+# 推荐阅读
+
+- **少数派：**[在校师生福利：Apple、微软、Adobe 等产品如何通过教育优惠购买](https://sspai.com/post/39430)
+- **少数派：**[学生专属福利，你可能还不知道这些常用服务其实可以更便宜](https://sspai.com/post/43533)
+
 # 相关推荐
 
 **买电脑：** 学生购买电脑多为笔记本，可关注 [笔记本吧](http://tieba.baidu.com/f?kw=%E7%AC%94%E8%AE%B0%E6%9C%AC&ie=utf-8)
