@@ -6,7 +6,7 @@
 
 本文介绍的是利用学生身份可以享受到的相关学生优惠权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠资格，使得其他同学无法受益。
 
-**欢迎提交 issue 给我们你发现的实用资源！** | 本文更新于 2019 年 03 月 24 日
+**欢迎提交 issue 给我们你发现的实用资源！** | 本文更新于 2019 年 05 月 12 日
 
 点击 `watch` 可以得到更新信息哟！
 
@@ -67,6 +67,7 @@
 
 - **[CreativeMarket Free Goods](https://creativemarket.com/free-goods)**，每周免费六款设计资源，电商、前端必备。
 - **[Axure](https://www.axure.com/edu)**， 原型设计工具，产品、运营必备，学生、教师免费。
+- **[Adobe XD](https://www.adobe.com/cn/products/xd.html)**，原型设计工具，~~没想到吧我Adobe也有免费的东西啦XD~~ 官网直接提供免费版，奋起直追Mac的Sketch，Win党难得的福利。此外Adobe还提供对XD插件设计的奖励，[可参与设计开发可供XD使用的插件](https://www.adobe.io/apis/creativecloud/xd.html)。
 - **[Minecraft](http://education.minecraft.net/get-started)**， 我的世界教育免费版 ，仅支持邮箱。
 - **[Mathematica](http://www.wolfram.com/mathematica/pricing/students-individuals.php)**， 现代科学计算软件，3折优惠 50刀，添加购物车后显示。
 - **[Tableau](https://www.tableau.com/zh-cn/academic)**， 数据可视化分析软件，对学生、教室以及教育组织提供免费使用。
