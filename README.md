@@ -12,7 +12,7 @@
 
 # 注意点
 
-* 查看、利用、转载、引用本集锦请查看 [License](https://github.com/ivmm/Student-resources/blob/master/lisence)。
+* 查看、利用、转载、引用本集锦请查看 [License](https://github.com/ivmm/Student-resources/blob/master/license)。
 * 一切官方的助学资金等，请咨询学校领导、辅导员、班主任，请勿向陌生账户转账！
 * 校园借贷风险极高，请谨慎尝试。
 * 对需要出示身份证、手持身份证的资源请保持谨慎。
