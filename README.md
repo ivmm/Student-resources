@@ -52,7 +52,7 @@
 - **[腾讯云+校园计划](https://www.qcloud.com/act/campus)**，云服务器10元/月 25岁及以下免学生认证 (活动规则多建议买之前先看一下) 。
 - **[华为云+云创校园计划](https://developer.huaweicloud.com/campus)**，9元/月 24岁及以下免学生认证，实名认证即可购买，需要抢购。
 - **[百度云启航校园计划](https://cloud.baidu.com/campaign/campus-2018/index.html)**，云服务器半年124元
-- **[苹果教育商店](http://www.apple.com/cn-k12/shop)**，苹果设备优惠，Music和 Pro APP 优惠，暑假还会有学生优惠大促销。
+- **[苹果教育商店](https://www.apple.com.cn/cn-k12/shop)**，苹果设备优惠，Music和 Pro APP 优惠，暑假还会有学生优惠大促销。
 - **[微软教育商店](https://www.microsoftstore.com.cn/student?Icid=StoreNavi_EDU)**，9折购买微软旗下的各种硬件设备。
 - **[OnTheHub 教育商店](http://www.onthehub.com/)**，PD 和 VMware 的虚拟机优惠，以及更多软件优惠。
 - **[SiteGroud 学生计划](https://www.siteground.com/student-hosting.htm)**，WP 官方推荐的主机托管商提供 $1.99/月 高性能 CP 托管。
@@ -71,6 +71,8 @@
 - **[Minecraft](http://education.minecraft.net/get-started)**， 我的世界教育免费版 ，仅支持邮箱。
 - **[Mathematica](http://www.wolfram.com/mathematica/pricing/students-individuals.php)**， 现代科学计算软件，3折优惠 50刀，添加购物车后显示。
 - **[Tableau](https://www.tableau.com/zh-cn/academic)**， 数据可视化分析软件，对学生、教室以及教育组织提供免费使用。
+- **[Origin](https://www.originlab.com/OriginProLearning.aspx)**，Origin是一款理工科学生常用的作图软件，对中国学生提供6个月的免费使用。
+- **[Notion](https://www.notion.so/student)**，一个将笔记、知识库和任务管理无缝整合的协作平台，通过教育邮箱验证后能获得付费个人版的功能。
 
 # 推荐软件
 
