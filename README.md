@@ -49,7 +49,7 @@
 
 - **[Office in Education](https://products.office.com/en-us/student?tab=students)**，微软家提供的免费 Office 365 教育优惠，中国大多数学校无缘申请。
 - **[阿里云+云翼计划](https://promotion.aliyun.com/ntms/act/campus2018.html?accounttraceid=22aca9b8-8f26-44f2-b514-d97cf21a6654&userCode=oitiwrd3)**，118元/年，阿里云ECS+OSS+域名+机器学习API+Clouder认证。  24岁以下实名认证即可获得，无需验证学生身份!!
-- **[腾讯云+校园计划](https://www.qcloud.com/act/campus)**，10元一个月的云服务器租用，免费域名、云储存，需要抢购。
+- **[腾讯云+校园计划](https://www.qcloud.com/act/campus)**，云服务器10元/月 25岁及以下免学生认证 (活动规则多建议买之前先看一下) 。
 - **[华为云+云创校园计划](https://developer.huaweicloud.com/campus)**，9元/月 24岁及以下免学生认证，实名认证即可购买，需要抢购。
 - **[百度云启航校园计划](https://cloud.baidu.com/campaign/campus-2018/index.html)**，云服务器半年124元
 - **[苹果教育商店](http://www.apple.com/cn-k12/shop)**，苹果设备优惠，Music和 Pro APP 优惠，暑假还会有学生优惠大促销。
