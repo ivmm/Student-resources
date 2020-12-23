@@ -76,10 +76,11 @@
 
 # 😋吃喝玩乐
 
-- **必胜客**，八折，支付宝口碑认证后可以享受。
-- **海底捞**，69折或者88折，支付宝口碑认证后可以享受，受时间段限制。
+- **海底捞**，69折或者88折，支付宝校园生活认证后可以享受，受时间段限制。
+- **迪士尼**，支付宝校园生活认证后可以享受，受时间段限制。
+- **美团学生专享**，学信网认证后有不同的折扣和优惠活动。
 - **滴滴快车**，每个月会领取4张92折的快车券，在学生中心中进行认证。
-- **[京东教育优惠](https://c.duomai.com/track.php?site_id=288567&aid=61&euid=&t=https%3A%2F%2Fedu.jd.com%2F)**，学生特价、专属优惠券等，基于学信网认证。
+- **[京东校园](https://u.jd.com/tW2QIS6)**，学生特价、专属优惠券等，基于学信网认证。
 - **[网易严选](https://tb.g2h3.com/3WRo8)**，95折全场优惠，下载网易严选客户端并登录后，进入个人页面，便能看到底部「大学生认证」选项。
 - 欢迎补充👏
 
@@ -102,7 +103,7 @@
 - **[Eagle教育优惠](http://app.eagle.cool/forum/topic/5354/%E6%88%91%E6%98%AF%E5%AD%A6%E7%94%9F%E6%88%96%E6%95%99%E5%B8%88-%E6%98%AF%E5%90%A6%E4%BA%AB%E6%9C%89%E4%BC%98%E6%83%A0%E4%BB%B7%E6%A0%BC)**，$139，Win/Mac系统，设计师图片管理工具，支持试用一个月，原价199，优惠价139，需提供身份和证件信息。优秀的本地图片管理工具，搭配学生版OneDrive进行同步管理，美滋滋。（目前已支持图片、视频、字体等类型文件的管理）
 - [**XShell + XFTP**](https://www.netsarang.com/zh/free-for-home-school/)， 免费，或许是Win下最好用的SSH和FTP管理工具，免费许可涵盖任何认证教育机构的学生、教师和员工。使用Xshell和Xftp进行教学、学习和管理。
 - [**Shapr3D**](https://www.shapr3d.com/education)，免费，Shapr3D 是一款为iPad和Apple Pencil的移动性和精度而创造的专业CAD工具。
-
+- [**Altium Designer**](https://www.altium.com.cn/solutions/academic-programs/student-licenses)，免费，Altium Designer 是一款为功能强大的PCB设计软件。
 # 📝推荐软件
 
 - **[CloudConvert](https://cloudconvert.com/)**，转码神器，格式齐全的在线转码利器。
