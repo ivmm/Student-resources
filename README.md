@@ -92,7 +92,7 @@
 - **[OnTheHub 教育商店](http://www.onthehub.com/)**，优惠折扣，PD 和 VMware 的虚拟机优惠，以及更多软件优惠。
 - [**Student App Centre**](https://www.studentappcentre.com/)，优惠折扣，提供和收集PDF Expert、Boom2、Downie、CleanShot X等几十款欧美软件的教育优惠，支持邮箱和学生证。
 - **[Axure](https://www.axure.com/edu)**， 免费，原型设计工具，产品、运营必备，学生、教师免费。
-- **[Todoist教育优惠](https://todoist.com/education)**，五折优惠，通过校园邮箱或学生证复印件认证申请，提供强大的任务、思路整理工具提供半价教育优惠。
+- **[Todoist](https://todoist.com/zh-CN/education)**，商务版3折优惠，原价60美元/年，优惠价18美元/年，通过校园邮箱或学生证复印件认证申请，一个管理工作和生活的To Do List应用，强大的任务、思路整理工具。
 - **[Spotify 学生优惠](https://www.spotify.com/hk-zh/student/)**，半价优惠，Spotify Premium、Spotify、Hulu (ad-supported) plan和SHOWTIME。
 - [**Sketch**](https://www.sketchapp.com/store/edu/)，半价优惠，提供学生证复印件证明后，macOS下著名的原型设计工具
 - **[Adobe XD](https://www.adobe.com/cn/products/xd.html)**，免费，原型设计工具，~~没想到吧我Adobe也有免费的东西啦XD~~ 官网直接提供免费版，奋起直追Mac的Sketch，Win党难得的福利。此外Adobe还提供对XD插件设计的奖励，[可参与设计开发可供XD使用的插件](https://www.adobe.io/apis/creativecloud/xd.html)。
@@ -107,6 +107,7 @@
 - [**XShell + XFTP**](https://www.netsarang.com/zh/free-for-home-school/)， 免费，或许是Win下最好用的SSH和FTP管理工具，免费许可涵盖任何认证教育机构的学生、教师和员工。使用Xshell和Xftp进行教学、学习和管理。
 - [**Shapr3D**](https://www.shapr3d.com/education)，免费，Shapr3D 是一款为iPad和Apple Pencil的移动性和精度而创造的专业CAD工具。
 - [**Altium Designer**](https://www.altium.com.cn/solutions/academic-programs/student-licenses)，免费，Altium Designer 是一款为功能强大的PCB设计软件。
+- [**滴答清单**](https://www.dida365.com/education)，75折优惠，原价139元/年，优惠价格99元/年，一个帮你高效完成任务和规划时间的应用，优秀的GTD(*Getting Things Done*)应用，需要用教育邮箱注册验证。
 
 # 📝推荐软件
 
