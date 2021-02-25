@@ -46,6 +46,7 @@
 - **[JetBrains 学生包](https://www.jetbrains.com/student/)**，免费使用各类开发工具和集成工具。
 - **[G Suite for Education](https://edu.google.com/products/productivity-tools/)**，为教育用户提供的谷歌生产力工具套件（大陆不在申请区之内）。
 - **[LINGO Educational Research License](http://www.lindo.com/index.php?option=com_content&view=article&id=120&Itemid=45)**, LINGO 教育授权，著名线性与非线性求解器，求解优化模型的最佳选择，数学建模必备。
+- **[Navicat 学术伙伴计划](https://www.navicat.com/en/sponsorship/education/student)**, 提供一年的 Navicat Premium 非商业授权，图形化数据库管理及发展软件，强大的可视化数据库管理工具。
 
 # ⌨️云服务优惠
 
