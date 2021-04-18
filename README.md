@@ -51,7 +51,6 @@
 # ⌨️云服务优惠
 
 - **[Office in Education](https://products.office.com/en-us/student?tab=students)**，免费，微软家提供的免费 Office 365 教育优惠，中国大多数学校无缘申请。
-- **[阿里云+云翼计划](https://promotion.aliyun.com/ntms/act/campus2018.html?accounttraceid=22aca9b8-8f26-44f2-b514-d97cf21a6654&userCode=oitiwrd3)**，118元/年，阿里云ECS/轻量云服务器+OSS+RDS。  24岁以下实名认证即可获得，无需验证学生身份!!
 - **[腾讯云+校园计划](https://cloud.tencent.com/act/cps/redirect?redirect=10004&cps_key=6df162ea83f16c8735081aa3200eef38)**，120元/年，1C2G1M50G 云服务器，还有云数据库和域名等优惠， 25岁及以下免学生认证 (活动规则多建议买之前先看一下) ，变更配置容易失去资格。
 - **[天翼云+云创校园](https://www.ctyun.cn/activity/#/campus)**，118.8/年，1核心2G内存40G存储+1M带宽
 - **[华为云+云创校园计划](https://developer.huaweicloud.com/campus)**，9元/月 24岁及以下免学生认证，实名认证即可购买，需要抢购。 [华为云特惠入口](https://activity.huaweicloud.com/discount_area_v5/index.html?fromacct=ab424a84-21f7-4683-b04c-dd9a22d4db6c&utm_source=Y2p3YmJz&utm_medium=cps&utm_campaign=201905)
