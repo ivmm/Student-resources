@@ -109,6 +109,7 @@
 - [**Shapr3D**](https://www.shapr3d.com/education)，免费，Shapr3D 是一款为iPad和Apple Pencil的移动性和精度而创造的专业CAD工具。
 - [**Altium Designer**](https://www.altium.com.cn/solutions/academic-programs/student-licenses)，免费，Altium Designer 是一款为功能强大的PCB设计软件。
 - [**滴答清单**](https://www.dida365.com/education)，75折优惠，原价139元/年，优惠价格99元/年，一个帮你高效完成任务和规划时间的应用，优秀的GTD(*Getting Things Done*)应用，需要用教育邮箱注册验证。
+- [**SQLPro Studio**](https://www.sqlprostudio.com/edu/)，1 年教育许可证，macOS / iOS 简洁，强大，多用途的数据库管理客户端。
 
 # 📝推荐软件
 
