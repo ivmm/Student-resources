@@ -98,7 +98,7 @@
 - [**Sketch**](https://www.sketchapp.com/store/edu/)，半价优惠，提供学生证复印件证明后，macOS下著名的原型设计工具
 - **[Adobe XD](https://www.adobe.com/cn/products/xd.html)**，免费，原型设计工具，~~没想到吧我Adobe也有免费的东西啦XD~~ 官网直接提供免费版，奋起直追Mac的Sketch，Win党难得的福利。此外Adobe还提供对XD插件设计的奖励，[可参与设计开发可供XD使用的插件](https://www.adobe.io/apis/creativecloud/xd.html)。
 - **[Setapp](https://setapp.com/educational-discount)**，5折优惠，每月4.99刀，订阅制应用商店，订阅一个包畅想曲几十款macOS收费软件。查看[可用软件列表](https://setapp.com/apps)。
-- **[LastPaas](https://lastpass.com/edupromo.php)**，免费赠送半年，方便好用的跨平台密码管理工具。
+- **[LastPass](https://lastpass.com/edupromo.php)**，免费赠送半年，方便好用的跨平台密码管理工具。
 - **[Minecraft](http://education.minecraft.net/get-started)**， 免费，我的世界教育免费版 ，仅支持邮箱。
 - **[Mathematica](http://www.wolfram.com/mathematica/pricing/students-individuals.php)**， $50，现代科学计算软件，3折优惠 50刀，添加购物车后显示。
 - **[Tableau](https://www.tableau.com/zh-cn/academic)**， 免费，数据可视化分析软件，对学生、教室以及教育组织提供免费使用。
