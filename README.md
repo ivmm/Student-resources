@@ -113,6 +113,7 @@
 - [**SQLPro Studio**](https://www.sqlprostudio.com/edu/)，1 年教育许可证，macOS / iOS 简洁，强大，多用途的数据库管理客户端。
 - [**包小盒**](https://support.baoxiaohe.com/archives/84/)，可享受免费试用一个月的会员功能，购买包小盒会员可享一次五折优惠，需要学生证。
 - [**多译**](https://support.duoyiapp.com/docs/apply-discount/)，高效的文件、文本、图片OCR翻译工具，多译年版订阅：96元，多译Pro：188元，需要学生证。
+- **[知乎·盐选会员青春卡](https://www.zhihu.com/xen/market/student-vip-privileges)**，原价 238 的会员只要 98 元，知乎高质量的内容、杂志、Live免费看。
 
 # 📝推荐软件
 
