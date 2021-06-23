@@ -77,6 +77,7 @@
 - [**联想教育优惠**](https://c.mktdatatech.com/track.php?site_id=288567&aid=5557&euid=&t=https%3A%2F%2Factivity.lenovo.com.cn%2Ftsyx%2Fk12.html&dm_fid=21131) ，PC、笔记本免息分期购。
 - [**戴尔学生采购**](https://spp.dell-brand.com/2020)，戴尔、外星人学生专属特价和优惠券
 - [**惠普学生教育**](https://www.hpstore.cn/laptops-tablets/student.html)，笔记本产品享受400～700左右的优惠和学生赠品。
+- [**华为教育优惠**](https://sale.vmall.com/education.html)，华为教育优惠主要在智能硬件和周边，认证学生身份后可以领取优惠券。
 
 # 😋吃喝玩乐
 
