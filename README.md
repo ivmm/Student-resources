@@ -73,17 +73,17 @@
   - 显示器：每学年最多可以购买 两 台
   - iPod：每学年购买没有数量限制
 - **[微软教育商店](https://tb.g2h3.com/3WRrt)**，9折购买微软旗下的各种硬件设备。翻新更超值！
-- **[大疆教育优惠](http://coupon.dji.com/cn/edu)**，大疆产品的教育折扣。
 - [**联想教育优惠**](https://c.mktdatatech.com/track.php?site_id=288567&aid=5557&euid=&t=https%3A%2F%2Factivity.lenovo.com.cn%2Ftsyx%2Fk12.html&dm_fid=21131) ，PC、笔记本免息分期购。
 - [**戴尔学生采购**](https://spp.dell-brand.com/2020)，戴尔、外星人学生专属特价和优惠券
 - [**惠普学生教育**](https://www.hpstore.cn/laptops-tablets/student.html)，笔记本产品享受400～700左右的优惠和学生赠品。
 
 # 😋吃喝玩乐
 
-- **海底捞**，69折或者88折，支付宝校园生活认证后可以享受，受时间段限制。
+- **海底捞**，69折或者88折，支付宝学生特惠认证后可以享受，受时间段限制。
 - **迪士尼**，支付宝校园生活认证后可以享受，受时间段限制。
 - **美团学生专享**，学信网认证后有不同的折扣和优惠活动。
 - **滴滴快车**，每个月会领取4张92折的快车券，在学生中心中进行认证。
+- **支付宝学生特惠**，支付宝APP中搜索学生特惠，集成一站式学生优惠场景，话费、娱乐、消费等。
 - **[京东校园](https://u.jd.com/tW2QIS6)**，学生特价、专属优惠券等，基于学信网认证。
 - **[网易严选](https://tb.g2h3.com/3WRo8)**，95折全场优惠，下载网易严选客户端并登录后，进入个人页面，便能看到底部「大学生认证」选项。
 - **顺丰学生会员** ，享受每年最高208元的寄件福利，进入顺丰小程序提交认证可以免费享受。
@@ -114,7 +114,8 @@
 - [**包小盒**](https://support.baoxiaohe.com/archives/84/)，可享受免费试用一个月的会员功能，购买包小盒会员可享一次五折优惠，需要学生证。
 - [**多译**](https://support.duoyiapp.com/docs/apply-discount/)，高效的文件、文本、图片OCR翻译工具，多译年版订阅：96元，多译Pro：188元，需要学生证。
 - **[知乎·盐选会员青春卡](https://www.zhihu.com/xen/market/student-vip-privileges)**，原价 238 的会员只要 98 元，知乎高质量的内容、杂志、Live免费看。
-
+- **[UU加速器 大学生福利](https://activity.uu.163.com/mapp/qm)**，完成认证后提供购买优惠
+- **[Apple Music](https://tb.j5k6.com/1eH2l)**，Apple Music 以及 Apple TV+，可以获得48个月的教育优惠。
 # 📝推荐软件
 
 - **[CloudConvert](https://cloudconvert.com/)**，转码神器，格式齐全的在线转码利器。
