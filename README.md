@@ -114,8 +114,10 @@
 - [**包小盒**](https://support.baoxiaohe.com/archives/84/)，可享受免费试用一个月的会员功能，购买包小盒会员可享一次五折优惠，需要学生证。
 - [**多译**](https://support.duoyiapp.com/docs/apply-discount/)，高效的文件、文本、图片OCR翻译工具，多译年版订阅：96元，多译Pro：188元，需要学生证。
 - **[知乎·盐选会员青春卡](https://www.zhihu.com/xen/market/student-vip-privileges)**，原价 238 的会员只要 98 元，知乎高质量的内容、杂志、Live免费看。
+- **[Taskade](https://www.taskade.com)**，免费。Taskade 是一个高效便捷的To Do List, 思维导图, 和笔记工具，适用于个人和团队，具有聊天和实时协作的功能。如需免费升级到专业版，请联系客服。
 - **[UU加速器 大学生福利](https://activity.uu.163.com/mapp/qm)**，完成认证后提供购买优惠
 - **[Apple Music](https://tb.j5k6.com/1eH2l)**，Apple Music 以及 Apple TV+，可以获得48个月的教育优惠。
+
 # 📝推荐软件
 
 - **[CloudConvert](https://cloudconvert.com/)**，转码神器，格式齐全的在线转码利器。
