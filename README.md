@@ -40,7 +40,7 @@
 各类学生优惠项目经过许多年的发展，很多学生包已经不单单只通过 edu 邮箱验证身份了，而且使用 @edu.cn 反而会降低申请成功率。 建议使用学生证、入学通知书等有学院官方标志和日期的工具来证明自己的身份。
 
 - **[Github 学生包](https://education.github.com/pack)**，高质量的开发工具集合，并提供 DIgitalocean 的 100美元代金券，免费域名一枚。
-- **[Microsoft Imagine 学生包](https://imagine.microsoft.com/zh-cn/catalog)**，免费使用微软的开发软件，包括 Windows Server 系统，以及 Azure 学生订阅。
+- **[Azure 学生包](https://learn.microsoft.com/zh-cn/azure/education-hub/azure-dev-tools-teaching/program-faq)**，免费使用微软的开发软件，包括 Windows Server 系统，以及 Azure 学生订阅。
 - **[AWS 学生包](https://aws.amazon.com/cn/education/awseducate/)**，亚马逊云计算的学生包，可以获得至少 $40 的优惠和教育培训。
 - **[Autodesk 学生包](http://www.autodesk.com.cn/education/home)**，旗下 AutoCAD , 3DMAX , Maya 等软件，其（教育版）免费试用期可延长至三年。
 - **[JetBrains 学生包](https://www.jetbrains.com/student/)**，免费使用各类开发工具和集成工具。
@@ -51,6 +51,7 @@
 # ⌨️云服务优惠
 
 - **[Office in Education](https://products.office.com/en-us/student?tab=students)**，免费，微软家提供的免费 Office 365 教育优惠，中国大多数学校无缘申请。
+- **[阿里云 高校计划](https://developer.aliyun.com/plan/grow-up?userCode=oitiwrd3)**， 高校计划，提供高配云服务器7个月的免费使用和系列免费云计算课程+实验。
 - **[腾讯云+校园计划](https://cloud.tencent.com/act/cps/redirect?redirect=10004&cps_key=6df162ea83f16c8735081aa3200eef38)**，120元/年，1C2G1M50G 云服务器，还有云数据库和域名等优惠， 25岁及以下免学生认证 (活动规则多建议买之前先看一下) ，变更配置容易失去资格。
 - **[天翼云+云创校园](https://www.ctyun.cn/activity/#/campus)**，118.8/年，1核心2G内存40G存储+1M带宽
 - **[华为云+云创校园计划](https://developer.huaweicloud.com/campus)**，9元/月 24岁及以下免学生认证，实名认证即可购买，需要抢购。 [华为云特惠入口](https://activity.huaweicloud.com/discount_area_v5/index.html?fromacct=ab424a84-21f7-4683-b04c-dd9a22d4db6c&utm_source=Y2p3YmJz&utm_medium=cps&utm_campaign=201905)
@@ -60,7 +61,6 @@
   - 再注册 [AWS Educate](https://www.awseducate.com/Registration) 项目，不定期收到优惠邮件，并获得$100~$150 服务抵扣金额。
 - [**Digital Ocean 云服务**](https://m.do.co/c/e89da76f57f2)，赠送余额，通过注册上面提到的 [Github 学生包](https://education.github.com/pack)，获得$100 服务抵扣金额。
 - **[SiteGroud 学生计划](https://www.siteground.com/student-hosting.htm)**， $1.99/月，WP 官方推荐的主机托管商提供高性能 CP 托管。
-- **[阿里云 开发者成长计划](https://developer.aliyun.com/plan/grow-up?source=5176.11533457&userCode=oitiwrd3)**， 原云翼计划已经下线，开发者计划性价比较低不过还是可以考虑的阿里云学生优惠方案。
 - **[Pantheon 学生版](https://pantheon.io/edu)**，免费试用，专业高性能网站托管的学生优惠。
 
 # 💻硬件优惠
@@ -73,17 +73,17 @@
   - 显示器：每学年最多可以购买 两 台
   - iPod：每学年购买没有数量限制
 - **[微软教育商店](https://tb.g2h3.com/3WRrt)**，9折购买微软旗下的各种硬件设备。翻新更超值！
-- **[大疆教育优惠](http://coupon.dji.com/cn/edu)**，大疆产品的教育折扣。
 - [**联想教育优惠**](https://c.mktdatatech.com/track.php?site_id=288567&aid=5557&euid=&t=https%3A%2F%2Factivity.lenovo.com.cn%2Ftsyx%2Fk12.html&dm_fid=21131) ，PC、笔记本免息分期购。
 - [**戴尔学生采购**](https://spp.dell-brand.com/2020)，戴尔、外星人学生专属特价和优惠券
 - [**惠普学生教育**](https://www.hpstore.cn/laptops-tablets/student.html)，笔记本产品享受400～700左右的优惠和学生赠品。
 
 # 😋吃喝玩乐
 
-- **海底捞**，69折或者88折，支付宝校园生活认证后可以享受，受时间段限制。
+- **海底捞**，69折或者88折，支付宝学生特惠认证后可以享受，受时间段限制。
 - **迪士尼**，支付宝校园生活认证后可以享受，受时间段限制。
 - **美团学生专享**，学信网认证后有不同的折扣和优惠活动。
 - **滴滴快车**，每个月会领取4张92折的快车券，在学生中心中进行认证。
+- **支付宝学生特惠**，支付宝APP中搜索学生特惠，集成一站式学生优惠场景，话费、娱乐、消费等。
 - **[京东校园](https://u.jd.com/tW2QIS6)**，学生特价、专属优惠券等，基于学信网认证。
 - **[网易严选](https://tb.g2h3.com/3WRo8)**，95折全场优惠，下载网易严选客户端并登录后，进入个人页面，便能看到底部「大学生认证」选项。
 - **顺丰学生会员** ，享受每年最高208元的寄件福利，进入顺丰小程序提交认证可以免费享受。
@@ -115,6 +115,8 @@
 - [**多译**](https://support.duoyiapp.com/docs/apply-discount/)，高效的文件、文本、图片OCR翻译工具，多译年版订阅：96元，多译Pro：188元，需要学生证。
 - **[知乎·盐选会员青春卡](https://www.zhihu.com/xen/market/student-vip-privileges)**，原价 238 的会员只要 98 元，知乎高质量的内容、杂志、Live免费看。
 - **[Taskade](https://www.taskade.com)**，免费。Taskade 是一个高效便捷的To Do List, 思维导图, 和笔记工具，适用于个人和团队，具有聊天和实时协作的功能。如需免费升级到专业版，请联系客服。
+- **[UU加速器 大学生福利](https://activity.uu.163.com/mapp/qm)**，完成认证后提供购买优惠
+- **[Apple Music](https://tb.j5k6.com/1eH2l)**，Apple Music 以及 Apple TV+，可以获得48个月的教育优惠。
 
 # 📝推荐软件
 
