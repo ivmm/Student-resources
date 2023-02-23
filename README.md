@@ -122,6 +122,7 @@
 - **[Taskade](https://www.taskade.com)**，免费。Taskade 是一个高效便捷的To Do List, 思维导图, 和笔记工具，适用于个人和团队，具有聊天和实时协作的功能。如需免费升级到专业版，请联系客服。
 - **[UU加速器 大学生福利](https://activity.uu.163.com/mapp/qm)**，完成认证后提供购买优惠
 - **[Apple Music](https://tb.j5k6.com/1eH2l)**，Apple Music 以及 Apple TV+，可以获得48个月的教育优惠。
+- [**扫描全能王 CamScanner**](https://zhuanlan.zhihu.com/p/349440995)，使用edu邮箱注册账户可以自动成为教育版用户（终身），主要福利是去广告、去水印、免费OCR额度、云空间容量增加
 
 # 📝推荐软件
 
