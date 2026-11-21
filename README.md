@@ -40,7 +40,7 @@
 各类学生优惠项目经过许多年的发展，很多学生包已经不单单只通过 edu 邮箱验证身份了，而且使用 @edu.cn 反而会降低申请成功率。 建议使用学生证、入学通知书等有学院官方标志和日期的工具来证明自己的身份。
 
 - **[Github 学生包](https://education.github.com/pack)**，高质量的开发工具集合，并提供 DIgitalocean 的 100美元代金券，免费域名一枚。
-- **[Azure 学生包](https://learn.microsoft.com/zh-cn/azure/education-hub/azure-dev-tools-teaching/program-faq)**，免费使用微软的开发软件，包括 Windows Server 系统，以及 Azure 学生订阅。
+- **[Azure 学生包 (Azure for Students)](https://azure.microsoft.com/zh-cn/free/students/)**，面向高校学生提供每年 $100 Azure 云服务额度及部分免费云服务（无需信用卡，国内学生若 `.edu.cn` 邮箱直连受限，可先申请 GitHub 学生包再关联认证）；另注：原 Microsoft Imagine 已更名为 [Azure Dev Tools for Teaching](https://learn.microsoft.com/zh-cn/azure/education-hub/azure-dev-tools-teaching/program-faq)，仅限签订微软批量授权协议的高校/院系学生使用。
 - **[AWS 学生包](https://aws.amazon.com/cn/education/awseducate/)**，亚马逊云计算的学生包，可以获得至少 $40 的优惠和教育培训。
 - **[Autodesk 学生包](http://www.autodesk.com.cn/education/home)**，旗下 AutoCAD , 3DMAX , Maya 等软件，其（教育版）免费试用期可延长至三年。
 - **[JetBrains 学生包](https://www.jetbrains.com/student/)**，免费使用各类开发工具和集成工具。
@@ -51,7 +51,7 @@
 # ⌨️云服务优惠
 
 - **[Office in Education](https://products.office.com/en-us/student?tab=students)**，免费，微软家提供的免费 Office 365 教育优惠，中国大多数学校无缘申请。
-- **[阿里云 高校计划](https://developer.aliyun.com/plan/grow-up?userCode=oitiwrd3)**， 高校计划，提供高配云服务器7个月的免费使用和系列免费云计算课程+实验。
+- **[阿里云 云工开物计划](https://university.aliyun.com/)**，原云翼/高校计划升级版，完成实名与学生身份认证后，每年可领取 300 元学生专属无门槛代金券，也可低价购买云服务器并体验免费云计算课程与实验。
 - **[腾讯云+校园计划](https://cloud.tencent.com/act/cps/redirect?redirect=10004&cps_key=6df162ea83f16c8735081aa3200eef38)**，120元/年，1C2G1M50G 云服务器，还有云数据库和域名等优惠， 25岁及以下免学生认证 (活动规则多建议买之前先看一下) ，变更配置容易失去资格。
 - **[天翼云+云创校园](https://www.ctyun.cn/activity/#/campus)**，118.8/年，1核心2G内存40G存储+1M带宽
 - **[华为云+云创校园计划](https://developer.huaweicloud.com/campus)**，9元/月 24岁及以下免学生认证，实名认证即可购买，需要抢购。 [华为云特惠入口](https://activity.huaweicloud.com/discount_area_v5/index.html?fromacct=ab424a84-21f7-4683-b04c-dd9a22d4db6c&utm_source=Y2p3YmJz&utm_medium=cps&utm_campaign=201905)
@@ -73,7 +73,7 @@
   - 显示器：每学年最多可以购买 两 台
   - iPod：每学年购买没有数量限制
 - **[微软教育商店](https://tb.g2h3.com/3WRrt)**，9折购买微软旗下的各种硬件设备。翻新更超值！
-- [**联想教育优惠**](https://c.mktdatatech.com/track.php?site_id=288567&aid=5557&euid=&t=https%3A%2F%2Factivity.lenovo.com.cn%2Ftsyx%2Fk12.html&dm_fid=21131) ，PC、笔记本免息分期购。
+- [**联想教育优惠**](https://activity.lenovo.com.cn/education/index.html)，通过学生/教师认证后可享 PC、笔记本专属教育折扣及分期免息等优惠。
 - [**戴尔学生采购**](https://spp.dell-brand.com/2020)，戴尔、外星人学生专属特价和优惠券
 - [**惠普学生教育**](https://www.hpstore.cn/laptops-tablets/student.html)，笔记本产品享受400～700左右的优惠和学生赠品。
 
@@ -82,7 +82,7 @@
 - **海底捞**，69折或者88折，支付宝学生特惠认证后可以享受，受时间段限制。
 - **迪士尼**，支付宝校园生活认证后可以享受，受时间段限制。
 - **美团学生专享**，学信网认证后有不同的折扣和优惠活动。
-- **滴滴快车**，每个月会领取4张92折的快车券，在学生中心中进行认证。
+- **滴滴出行学生专属**，在滴滴出行 App 个人中心「学生专属/学生专区」完成认证后，可领取打车折扣券、拼车优惠及单车学期卡等权益（具体权益因城市与活动期而异）。
 - **支付宝学生特惠**，支付宝APP中搜索学生特惠，集成一站式学生优惠场景，话费、娱乐、消费等。
 - **[京东校园](https://u.jd.com/tW2QIS6)**，学生特价、专属优惠券等，基于学信网认证。
 - **[网易严选](https://tb.g2h3.com/3WRo8)**，95折全场优惠，下载网易严选客户端并登录后，进入个人页面，便能看到底部「大学生认证」选项。
@@ -99,7 +99,6 @@
 - **[OnTheHub 教育商店](http://www.onthehub.com/)**，优惠折扣，PD 和 VMware 的虚拟机优惠，以及更多软件优惠。
 - [**Student App Centre**](https://www.studentappcentre.com/)，优惠折扣，提供和收集PDF Expert、Boom2、Downie、CleanShot X等几十款欧美软件的教育优惠，支持邮箱和学生证。
 - **[Axure](https://www.axure.com/edu)**， 免费，原型设计工具，产品、运营必备，学生、教师免费。
-- **[Todoist](https://todoist.com/zh-CN/education)**，商务版3折优惠，原价60美元/年，优惠价18美元/年，通过校园邮箱或学生证复印件认证申请，一个管理工作和生活的To Do List应用，强大的任务、思路整理工具。
 - **[Spotify 学生优惠](https://www.spotify.com/hk-zh/student/)**，半价优惠，Spotify Premium、Spotify、Hulu (ad-supported) plan和SHOWTIME。
 - [**Sketch**](https://www.sketchapp.com/store/edu/)，半价优惠，提供学生证复印件证明后，macOS下著名的原型设计工具
 - **[Adobe XD](https://www.adobe.com/cn/products/xd.html)**，免费，原型设计工具，~~没想到吧我Adobe也有免费的东西啦XD~~ 官网直接提供免费版，奋起直追Mac的Sketch，Win党难得的福利。此外Adobe还提供对XD插件设计的奖励，[可参与设计开发可供XD使用的插件](https://www.adobe.io/apis/creativecloud/xd.html)。
@@ -123,6 +122,11 @@
 - **[语雀 公益计划](https://www.yuque.com/about/welfare)**，1 年个人版公益计划许可证（可每年续订），仅支持 .edu.cn 教育邮箱。优秀的文档和知识库协作工具。
 - **[UU加速器 大学生福利](https://activity.uu.163.com/mapp/qm)**，完成认证后提供购买优惠
 - **[Apple Music](https://tb.j5k6.com/1eH2l)**，Apple Music 以及 Apple TV+，可以获得48个月的教育优惠。
+- **百度网盘学生会员**，通过学信网/学生身份认证（或在京东校园等官方合作渠道）可享 SVIP 学生年卡优惠（活动价约 148~158 元/年，原价 298 元/年）。
+- **[Kilobat Pro](https://kilobat.app/students)**，免费 1 年 Pro（可用于两台 Mac，在读期间可续期），Mac 网络诊断与流量监控应用，用学校邮箱发送邮件核验资格即可获取授权码（国内学校邮箱是否适用请以核验为准）。
+- **[wolai 教育优惠](https://www.wolai.com/wolai/7TAksv5x4ncBwxGUunJNkq)**，98 元/年购买个人专业版（原价 158 元/年），钉钉旗下云端笔记与协作平台，需使用学校或科研院所官方邮箱验证。
+- **[flomo 教育优惠](https://flomoapp.com/)**，面向在校学生、高校教师及毕业 2 年内用户，PRO 会员 99 元/455 天、MAX 会员 249 元/年，可在 App 或网页端「会员中心 -> 教育优惠」提交证明材料申请。
+- **[RaiDrive 教育/学术计划](https://www.raidrive.com/pricing)**，将网盘挂载为本地磁盘的工具，支持使用学校教育邮箱申请免费 Education 计划或折扣 Academic 计划。
 
 # 📝推荐软件
 
