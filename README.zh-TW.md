@@ -55,12 +55,27 @@
 
 ## 🤖 AI 工具優惠
 
+### 🎓 學生專屬 AI 優惠
+
 | 項目 | 適用地區 | 認證方式 | 核心權益與說明 |
 | :--- | :--- | :--- | :--- |
 | **[GitHub Copilot Student](https://education.github.com/pack)** | 全球 | GitHub 學生包 | 通過 GitHub 學生包驗證即可**完全免費**使用，含程式碼自動補全與每月 Chat / Agent 額度。 |
 | **[Zed Student](https://zed.dev/education)** | 全球 | GitHub 帳號（註冊滿 30 天）+ 學校信箱 | 符合資格的大專院校學生（18+）免費享 **1 年 Zed Pro**，每月含 **$10 AI 額度**與無限編輯預測（部分高價旗艦模型不在免費額度池內；學校信箱支援度以驗證為準）。 |
 | **[Google Gemini 學生計畫](https://one.google.com/ai-student)** | 美國為主（依各地活動） | SheerID + 帳號/付款方式 | **12 個月免費 Google AI Pro 試用目前僅限美國**，其他地區方案與價格依當地活動頁為準（詳見 [官方說明](https://support.google.com/googleone/answer/17422238)）。 |
 | **[Perplexity Education Pro](https://www.perplexity.ai/)** | 全球 | SheerID | 於網頁版左下角「Upgrade -> Education」認證後享 **5 折優惠**（$10/月，僅限官網網頁結帳，不支援 App Store / Google Play / PayPal），支援無限次 Pro Search 與文獻檢索。 |
+| **[字節 TRAE 大學生福利](https://www.trae.cn/events/student-verification)** | 中國大陸 | 大專院校學生認證 | AI 程式碼編輯器，完成學生身分認證後可額外獲得 **2,000 積分**（限 TRAE 中國版內使用，規則依活動頁為準）。 |
+
+### 🆓 開發者免費 AI 額度（非學生專屬）
+
+| 項目 | 適用地區 | 認證方式 | 核心權益與說明 |
+| :--- | :--- | :--- | :--- |
+| **[Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/platform/pricing/)** | 全球 | 免費註冊 | 每日免費提供 **10,000 Neurons** 推論額度，適合輕量級開源模型 API 實驗。 |
+| **[ElevenLabs](https://elevenlabs.io/pricing)** | 全球 | 免費註冊 | 免費方案每月提供 **10,000 積分** AI 語音合成與配音額度。 |
+| **[OpenRouter](https://openrouter.ai/)** | 全球 | 免費註冊 | 聚合多款 `:free` 免費大模型 API，呼叫上限依帳號累計儲值情況分檔（詳見 [Limits 文件](https://openrouter.ai/docs/api-reference/limits)）。 |
+| **[阿里雲百煉（Model Studio）](https://help.aliyun.com/zh/model-studio/new-free-quota)** | 中國大陸 | 阿里雲實名 | **新用戶限時額度**：開通後僅華北 2（北京）地域部分模型各贈 **100 萬 Token**，效期 **90 天**（過期不補，部分模型可能下架）。 |
+| **[火山方舟](https://docs.volcengine.com/docs/ark/free-inference-quota)** | 中國大陸 | 火山引擎實名 | **新用戶一次性額度**：指定豆包系列模型各贈送 **50 萬免費推論 Token**。 |
+| **[魔搭社群（ModelScope）](https://www.modelscope.cn/posts/435591)** | 中國大陸 | 免費註冊 | 社群提供免費魔粒額度，可用於呼叫託管的開源大模型 API（實際每日額度依社群最新公告為準）。 |
+| **[矽基流動（SiliconFlow）](https://www.siliconflow.cn/pricing)** | 中國大陸 | 實名註冊 | 提供多款標註「免費」的 OCR、語音、向量及部分開源模型 API 呼叫。 |
 
 ---
 
@@ -68,7 +83,7 @@
 
 | 項目 | 適用地區 | 認證方式 | 核心權益與說明 |
 | :--- | :--- | :--- | :--- |
-| **[阿里雲 雲工開物計畫](https://university.aliyun.com/)** | 中國大陸及港澳台 | 個人實名 + 學生身分認證 | 每 12 個月可領取 **300 元人民幣**學生專屬優惠券（數量有限，適用於部分公共雲產品），亦可低價購買雲端伺服器與體驗免費課程。 |
+| **[阿里雲 雲工開物計畫](https://university.aliyun.com/)** | 中國大陸及港澳台 | 個人實名 + 學生身分認證 | 每 12 個月可領取 **300 元人民幣**學生專屬優惠券（數量有限，適用於部分公共雲產品及 [百煉大模型](https://help.aliyun.com/zh/model-studio/introduction-to-yungongkaiwu)，當前活動期至 2027 年 3 月 31 日），亦可低價購買雲端伺服器與體驗免費課程。 |
 | **[阿里雲 99 計畫](https://www.aliyun.com/activity/ecs/99program)** | 中國大陸（個人普惠） | 個人實名認證（免學生認證） | **個人普惠替代方案**：ECS 經濟型 e 實例（2核2G、3M 頻寬、40G 雲碟）**99 元人民幣/年**，新舊用戶同享且活動期內可同價續費至 **2029 年 3 月 31 日**；個人同時限持一台，變更規格可能影響續費價。 |
 | **[騰訊雲+校園計畫](https://cloud.tencent.com/act/cps/redirect?redirect=10004&cps_key=6df162ea83f16c8735081aa3200eef38)** | 中國大陸 | 25 歲以下簡化認證 / 學信網 | 提供輕量應用伺服器（2核2G / 2核4G）、CVM 雲端伺服器、資料庫與免費課程等校園特惠（價格與續費規範依活動頁為準）。 |
 | **[華為雲普惠上雲專區](https://activity.huaweicloud.com/discount_area_v5/index.html?fromacct=ab424a84-21f7-4683-b04c-dd9a22d4db6c&utm_source=Y2p3YmJz&utm_medium=cps&utm_campaign=201905)** | 中國大陸（個人普惠） | 個人實名認證（免學生認證） | **個人普惠替代方案**：可透過個人新客/普惠專區選購高性價比 Flexus L 等入門雲端伺服器。 |
