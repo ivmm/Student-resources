@@ -1,0 +1,47 @@
+name: "⚠️ 报告优惠过期或条款变更 / Report Outdated or Changed Offer"
+description: "反馈死链、优惠取消、价格调整或地区限制变更 / Report a broken link, discontinued offer, or changed terms"
+title: "[Update] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢帮助保持列表准确！如果某项优惠已下线、链接失效或条款发生变化，请填写以下信息。
+        Thank you for helping keep this list up to date! Please provide details and an official reference if available.
+
+  - type: input
+    id: item
+    attributes:
+      label: "涉及的条目名称与分类 / Affected Item & Section"
+      placeholder: "例如：软件与订阅 - Setapp"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: "问题类型 / Issue Type"
+      options:
+        - "链接失效 / Broken Link"
+        - "优惠已取消或活动已结束 / Offer Discontinued or Ended"
+        - "价格、折扣或限购规则变更 / Pricing or Quota Changed"
+        - "地区或认证门槛变更 / Region or Verification Changed"
+        - "翻译或表述错误 / Translation or Typo"
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: "具体变更说明 / Details"
+      placeholder: "请说明当前实际情况，以及建议如何修改或是否应移除。"
+    validations:
+      required: true
+
+  - type: input
+    id: reference
+    attributes:
+      label: "官方依据链接 / Official Reference URL (Optional)"
+      placeholder: "https://..."
+    validations:
+      required: false

@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "📖 查看完整学生资源列表 / Browse Student Resources"
+    url: https://github.com/ivmm/Student-resources#readme
+    about: "请先在 README 中查找所需资源，本仓库仅做社区信息整理，不提供任何平台的官方学生认证客服支持。"
