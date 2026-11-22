@@ -54,15 +54,22 @@ Dieses Repository sammelt legale Rabatte und kostenlose Vorteile für Studierend
 
 ## 🤖 KI-Tools
 
+### 🎓 Exklusive Studentenangebote
+
 | Angebot | Region | Nachweis | Wichtigste Vorteile & Hinweise |
 | :--- | :--- | :--- | :--- |
 | **[GitHub Copilot Student](https://education.github.com/pack)** | Weltweit | GitHub Student Pack | **Komplett kostenlos** mit verifiziertem GitHub Student Pack, inkl. Code-Vervollständigung und monatlichem Chat-/Agent-Kontingent. |
 | **[Zed Student](https://zed.dev/education)** | Weltweit | GitHub-Konto (mind. 30 Tage alt) + Uni-E-Mail | **1 Jahr Zed Pro kostenlos** für berechtigte Studierende (18+), inkl. **$10/Monat KI-Guthaben** und unbegrenzten Edit Predictions (einige Top-Modelle können ausgenommen sein). |
 | **[Google Gemini Studentenangebot](https://one.google.com/ai-student)** | USA-Fokus (regional unterschiedlich) | SheerID + Konto/Zahlungsmethode | **Die 12-monatige kostenlose Google AI Pro-Testphase ist derzeit auf die USA beschränkt**; Angebote in anderen Ländern variieren je nach lokaler Aktion ([offizielle Hilfe](https://support.google.com/googleone/answer/17422238)). |
 | **[Perplexity Education Pro](https://www.perplexity.ai/)** | Weltweit | SheerID | **50 % Rabatt** ($10/Monat) über den Web-Checkout (`Upgrade -> Education`; nicht über App Store, Google Play oder PayPal), mit unbegrenzter Pro Search. |
-| **[Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/platform/pricing/)** | Weltweit (Free Tier) | Kostenlose Registrierung | **Kostenloses Entwickler-Kontingent**: **10.000 Neurons/Tag** kostenlose Inferenz für Open-Source-KI-Modelle. |
-| **[ElevenLabs](https://elevenlabs.io/pricing)** | Weltweit (Free Tier) | Kostenlose Registrierung | **Kostenloser Tarif**: **10.000 Credits/Monat** für KI-Sprachsynthese. |
-| **[OpenRouter](https://openrouter.ai/)** | Weltweit (Free Tier) | Kostenlose Registrierung | **Kostenloses Entwickler-Kontingent**: Einheitliche API für mehrere `:free`-LLMs (mit gemeinsamen Free-Tier-Limits, z. B. 50 Anfragen/Tag). |
+
+### 🆓 Kostenlose Entwickler-Kontingente (nicht exklusiv für Studierende)
+
+| Angebot | Region | Nachweis | Wichtigste Vorteile & Hinweise |
+| :--- | :--- | :--- | :--- |
+| **[Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/platform/pricing/)** | Weltweit | Kostenlose Registrierung | **10.000 Neurons/Tag** kostenlose Inferenz für Open-Source-KI-Modelle. |
+| **[ElevenLabs](https://elevenlabs.io/pricing)** | Weltweit | Kostenlose Registrierung | **10.000 Credits/Monat** im kostenlosen Tarif für KI-Sprachsynthese. |
+| **[OpenRouter](https://openrouter.ai/)** | Weltweit | Kostenlose Registrierung | Einheitliche API für mehrere `:free`-LLMs; tägliche Limits richten sich nach dem Guthaben-Status ([Limits-Doku](https://openrouter.ai/docs/api-reference/limits)). |
 
 ---
 

@@ -54,15 +54,22 @@ Este repositorio recopila descuentos legítimos y beneficios gratuitos para estu
 
 ## 🤖 Herramientas de IA
 
+### 🎓 Ofertas de IA exclusivas para estudiantes
+
 | Recurso | Región | Verificación | Beneficios clave y Notas |
 | :--- | :--- | :--- | :--- |
 | **[GitHub Copilot Student](https://education.github.com/pack)** | Global | GitHub Student Pack | **Completamente gratis** con el GitHub Student Pack verificado, incluye autocompletado de código y cuota mensual de Chat/Agent. |
 | **[Zed Student](https://zed.dev/education)** | Global | Cuenta GitHub (30+ días) + Correo universitario | **1 año gratis de Zed Pro** para estudiantes universitarios elegibles (18+), con **$10/mes en créditos de IA** y predicciones de edición ilimitadas (algunos modelos avanzados pueden quedar excluidos). |
 | **[Google Gemini Oferta para Estudiantes](https://one.google.com/ai-student)** | Enfoque EE. UU. (varía por país) | SheerID + Cuenta/Método de pago | **La prueba gratuita de 12 meses de Google AI Pro está limitada actualmente a EE. UU.**; las ofertas en otros países varían según la campaña local ([ayuda oficial](https://support.google.com/googleone/answer/17422238)). |
 | **[Perplexity Education Pro](https://www.perplexity.ai/)** | Global | SheerID | **50 % de descuento** ($10/mes) pagando directamente en la web (`Upgrade -> Education`; no aplica vía App Store, Google Play ni PayPal), con Pro Search ilimitado. |
-| **[Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/platform/pricing/)** | Global (nivel gratuito) | Registro gratuito | **Cuota gratuita para desarrolladores**: **10,000 Neurons/día** gratis para inferencia de modelos de IA de código abierto. |
-| **[ElevenLabs](https://elevenlabs.io/pricing)** | Global (nivel gratuito) | Registro gratuito | **Nivel gratuito**: **10,000 créditos/mes** para síntesis de voz con IA. |
-| **[OpenRouter](https://openrouter.ai/)** | Global (nivel gratuito) | Registro gratuito | **Cuota gratuita para desarrolladores**: API unificada con acceso a varios LLM `:free` (sujeto a límites compartidos, p. ej., 50 solicitudes/día). |
+
+### 🆓 Cuotas gratuitas de IA para desarrolladores (no exclusivas para estudiantes)
+
+| Recurso | Región | Verificación | Beneficios clave y Notas |
+| :--- | :--- | :--- | :--- |
+| **[Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/platform/pricing/)** | Global | Registro gratuito | **10,000 Neurons/día** gratis para inferencia de modelos de IA de código abierto. |
+| **[ElevenLabs](https://elevenlabs.io/pricing)** | Global | Registro gratuito | **10,000 créditos/mes** en el nivel gratuito para síntesis de voz con IA. |
+| **[OpenRouter](https://openrouter.ai/)** | Global | Registro gratuito | API unificada con acceso a varios LLM `:free`; los límites diarios dependen del nivel de créditos de la cuenta ([doc. Limits](https://openrouter.ai/docs/api-reference/limits)). |
 
 ---
 

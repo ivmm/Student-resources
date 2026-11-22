@@ -54,15 +54,22 @@ This repository curates legitimate discounts and free perks available to verifie
 
 ## 🤖 AI Tools
 
+### 🎓 Student-Exclusive AI Offers
+
 | Resource | Region | Verification | Key Perks & Notes |
 | :--- | :--- | :--- | :--- |
 | **[GitHub Copilot Student](https://education.github.com/pack)** | Global | GitHub Student Pack | **Completely free** with verified GitHub Student Pack, including code completions and monthly Chat/Agent allowance. |
 | **[Zed Student](https://zed.dev/education)** | Global | GitHub account (30+ days old) + University email | **Free 1 year of Zed Pro** for eligible university students (18+), including **$10/month AI credits** and unlimited edit predictions (some frontier models may be excluded from free credits). |
 | **[Google Gemini Student Offer](https://one.google.com/ai-student)** | US-focused (varies by region) | SheerID + Account/Payment method | **12-month free Google AI Pro trial is currently limited to the US**; offers and pricing in other regions vary by local campaign (see [official help](https://support.google.com/googleone/answer/17422238)). |
 | **[Perplexity Education Pro](https://www.perplexity.ai/)** | Global | SheerID | **50% off** ($10/month) via web checkout (`Upgrade -> Education`; not valid via App Store, Google Play, or PayPal), with unlimited Pro Search and research tools. |
-| **[Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/platform/pricing/)** | Global (free dev tier) | Free signup (no student check) | **Free developer tier**: **10,000 Neurons/day** free inference quota for open-source AI models. |
-| **[ElevenLabs](https://elevenlabs.io/pricing)** | Global (free tier) | Free signup (no student check) | **Free tier**: **10,000 credits/month** for AI text-to-speech and voice synthesis. |
-| **[OpenRouter](https://openrouter.ai/)** | Global (free dev tier) | Free signup (no student check) | **Free developer tier**: Unified API access to multiple `:free` LLM models (shared free-tier rate limits apply, e.g., 50 requests/day). |
+
+### 🆓 Free Developer AI Quotas (Not Student-Exclusive)
+
+| Resource | Region | Verification | Key Perks & Notes |
+| :--- | :--- | :--- | :--- |
+| **[Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/platform/pricing/)** | Global | Free signup | **10,000 Neurons/day** free inference quota for open-source AI models. |
+| **[ElevenLabs](https://elevenlabs.io/pricing)** | Global | Free signup | **10,000 credits/month** free tier for AI text-to-speech and voice synthesis. |
+| **[OpenRouter](https://openrouter.ai/)** | Global | Free signup | Unified API access to multiple `:free` LLM models; daily rate limits scale by account credit tier (see [Limits docs](https://openrouter.ai/docs/api-reference/limits)). |
 
 ---
 
