@@ -47,6 +47,9 @@ This repository curates legitimate discounts and free perks available to verifie
 | **[Google Workspace for Education](https://edu.google.com/workspace-for-education/editions/education-fundamentals/)** | Global (excl. CN) | Institution-wide enrollment | Formerly G Suite for Education; Google productivity suite provided through eligible schools. |
 | **[LINGO Educational Research License](https://www.lindo.com/)** | Global | School email / Official request | **Free 6-month renewable** unrestricted academic research license for mathematical optimization modeling. |
 | **[Navicat Academic Partner Program](https://www.navicat.com/en/sponsorship/education/student)** | Global | School email / Student proof | **Free 1-year** non-commercial license for Navicat Premium database management tool. |
+| **[UNiDAYS](https://www.myunidays.com)** | Global (US, UK, EU, AU, etc.) | School email / Proof of status | **Free** student verification & discount network unlocking deals from Apple, Samsung, software, and major brands (annual re-verification). |
+| **[Student Beans](https://www.studentbeans.com)** | Global (US, UK, EU, AU, etc.) | School email / Student ID | **Free** global student discount & verification platform covering tech, software, and lifestyle brands. |
+| **[ISIC Card](https://www.isic.org)** | 130+ countries | Enrollment proof (small fee) | UNESCO-endorsed International Student Identity Card accepted worldwide for travel, museums, flights, and software verification (e.g., JetBrains). |
 
 ---
 
@@ -84,6 +87,8 @@ This repository curates legitimate discounts and free perks available to verifie
 | Resource | Region | Verification | Key Perks & Notes |
 | :--- | :--- | :--- | :--- |
 | **[Figma Education](https://www.figma.com/education/)** | Global | School email / Proof of status | **Free** access to the Figma Professional plan for students and educators. |
+| **[Adobe Creative Cloud for Students](https://www.adobe.com/creativecloud/buy/students.html)** | Supported regions | SheerID | 20+ creative apps (Photoshop, Premiere Pro, Illustrator, After Effects, etc.) + Firefly AI; introductory rate ~$19.99/mo in year 1 (~$39.99/mo renewal). |
+| **[Unity Student Plan](https://unity.com/products/unity-student)** | Global | SheerID / Student verification | **Free** student plan for Unity real-time 3D and game development. |
 | **[Sketch](https://www.sketch.com/education/)** | Global | School email / Student proof | **Free** macOS UI/UX design license for verified students and educators. |
 | **[Axure](https://www.axure.com/edu)** | Global | School email / Student proof | **Free** prototyping and wireframing license for students and teachers. |
 | **[Shapr3D](https://www.shapr3d.com/education)** | Global | School email / Student proof | **Free** educational CAD modeling license for iPad, macOS, and Windows. |
@@ -103,6 +108,9 @@ This repository curates legitimate discounts and free perks available to verifie
 | **[Taskade](https://www.taskade.com)** | Global | Contact support with student proof | **Free** Pro upgrade for collaborative tasks, notes, and mind maps. |
 | **[Apple Music Student](https://support.apple.com/en-us/106008)** | Global | UNiDAYS | Discounted student subscription for up to **48 months** (bundled Apple TV availability varies by region). |
 | **[Spotify Premium Student](https://www.spotify.com/student/)** | Supported regions | SheerID | Discounted Premium Student subscription (pricing and bundled perks vary by country). |
+| **[Miro for Education](https://miro.com/education/)** | Global | School email / Student proof | **Free 2-year** renewable team workspace for collaborative online whiteboarding with unlimited boards. |
+| **[YouTube Premium Student](https://www.youtube.com/premium/student)** | Supported regions | SheerID (annual check) | 1-month free trial + discounted student monthly rate for ad-free YouTube and YouTube Music. |
+| **[Amazon Prime Student](https://www.amazon.com/primestudent)** | Supported countries | School email / Proof of status | **6-month free trial**, followed by **50% off** standard Prime membership (shipping, Prime Video, etc.). |
 
 ---
 

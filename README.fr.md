@@ -47,6 +47,9 @@ Ce dépôt rassemble des réductions légitimes et des avantages gratuits réser
 | **[Google Workspace for Education](https://edu.google.com/workspace-for-education/editions/education-fundamentals/)** | Mondial (hors CN) | Via l'établissement | Anciennement G Suite for Education ; suite collaborative Google fournie par les écoles éligibles. |
 | **[LINGO Educational Research License](https://www.lindo.com/)** | Mondial | E-mail universitaire / Demande officielle | Licence de recherche académique **gratuite et renouvelable tous les 6 mois**, sans limite de capacité, pour l'optimisation mathématique. |
 | **[Navicat Academic Partner Program](https://www.navicat.com/en/sponsorship/education/student)** | Mondial | E-mail universitaire / Justificatif | **Licence gratuite d'un an** (non commerciale) pour l'outil de gestion de bases de données Navicat Premium. |
+| **[UNiDAYS](https://www.myunidays.com)** | Mondial (FR, UE, US, UK...) | E-mail universitaire / Justificatif | Plateforme **gratuite** de vérification et de réductions étudiantes (Apple, Samsung, logiciels, mode ; vérification annuelle). |
+| **[Student Beans](https://www.studentbeans.com)** | Mondial (FR, UE, US, UK...) | E-mail universitaire / Carte | Plateforme **gratuite** de réductions étudiantes sur la tech, les logiciels et le quotidien. |
+| **[Carte ISIC](https://www.isic.org)** | 130+ pays | Certificat de scolarité (frais modiques) | Carte d'étudiant internationale reconnue par l'UNESCO, acceptée dans le monde entier pour les voyages, musées, vols et logiciels (ex. JetBrains). |
 
 ---
 
@@ -84,6 +87,8 @@ Ce dépôt rassemble des réductions légitimes et des avantages gratuits réser
 | Ressource | Région | Vérification | Avantages clés & Remarques |
 | :--- | :--- | :--- | :--- |
 | **[Figma Education](https://www.figma.com/education/)** | Mondial | E-mail universitaire / Justificatif | Accès **gratuit** au plan Figma Professional pour étudiants et enseignants. |
+| **[Adobe Creative Cloud Étudiants](https://www.adobe.com/creativecloud/buy/students.html)** | Régions éligibles | SheerID | Plus de 20 applications créatives (Photoshop, Premiere Pro, Illustrator, After Effects...) + IA Firefly à tarif fortement réduit la 1re année (~19,99 $/mois, puis ~39,99 $/mois). |
+| **[Unity Student Plan](https://unity.com/products/unity-student)** | Mondial | SheerID / Vérification étudiante | Plan étudiant **gratuit** pour le développement de jeux vidéo et la 3D temps réel avec Unity. |
 | **[Sketch](https://www.sketch.com/education/)** | Mondial | E-mail universitaire / Justificatif | Licence macOS de design UI/UX **gratuite** après vérification académique. |
 | **[Axure](https://www.axure.com/edu)** | Mondial | E-mail universitaire / Justificatif | Licence **gratuite** de prototypage pour étudiants et enseignants. |
 | **[Shapr3D](https://www.shapr3d.com/education)** | Mondial | E-mail universitaire / Justificatif | Licence CAO éducative **gratuite** sur iPad, macOS et Windows. |
@@ -103,6 +108,9 @@ Ce dépôt rassemble des réductions légitimes et des avantages gratuits réser
 | **[Taskade](https://www.taskade.com)** | Mondial | Contacter le support avec justificatif | Passage **gratuit** au plan Pro pour tâches, notes et cartes mentales collaboratives. |
 | **[Apple Music Étudiant](https://support.apple.com/en-us/106008)** | Mondial | UNiDAYS | Tarif étudiant jusqu'à **48 mois** (l'accès inclus à Apple TV varie selon la région). |
 | **[Spotify Premium Étudiant](https://www.spotify.com/student/)** | Pays éligibles | SheerID | Abonnement Premium Étudiant à tarif réduit (tarifs et bonus variables selon le pays). |
+| **[Miro for Education](https://miro.com/education/)** | Mondial | E-mail universitaire / Justificatif | Espace d'équipe **gratuit pendant 2 ans** (renouvelable) pour tableaux blancs collaboratifs illimités. |
+| **[YouTube Premium Étudiant](https://www.youtube.com/premium/student)** | Pays éligibles | SheerID (vérification annuelle) | 1 mois d'essai gratuit + tarif étudiant réduit pour YouTube sans publicité et YouTube Music. |
+| **[Amazon Prime Student](https://www.amazon.com/primestudent)** | Pays éligibles | E-mail universitaire / Justificatif | **Essai gratuit de 6 mois**, puis **-50 %** sur l'abonnement Prime standard. |
 
 ---
 

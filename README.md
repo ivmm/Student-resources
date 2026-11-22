@@ -30,7 +30,7 @@
 
 ### 🧭 快速导航
 
-[🎒 学生包](#-学生包) · [🤖 AI 工具优惠](#-ai-工具优惠) · [⌨️ 云服务优惠](#️-云服务优惠) · [💻 硬件优惠](#-硬件优惠) · [💿 软件与订阅](#-软件与订阅) · [😋 吃喝玩乐与出行](#-吃喝玩乐与出行) · [📝 推荐工具](#-推荐工具) · [📚 推荐阅读与成长建议](#-推荐阅读与成长建议)
+[🎒 学生包](#-学生包) · [🤖 AI 工具优惠](#-ai-工具优惠) · [⌨️ 云服务优惠](#️-云服务优惠) · [💻 硬件优惠](#-硬件优惠) · [💿 软件与订阅](#-软件与订阅) · [😋 吃喝玩乐与出行](#-吃喝玩乐与出行) · [📝 推荐工具](#-推荐工具) · [📒 成长建议](#-成长建议)
 
 ---
 
@@ -48,6 +48,9 @@
 | **[Google Workspace for Education](https://edu.google.com/workspace-for-education/editions/education-fundamentals/)** | 海外（不含大陆） | 教育机构统一申请 | 原 G Suite for Education，面向学校与教育机构的谷歌生产力工具套件。 |
 | **[LINGO Educational Research License](https://www.lindo.com/)** | 全球 | 学校邮箱 / 官方申请 | 著名线性与非线性优化求解器，向符合条件的学生和教授免费提供 **6 个月可续期**的无限制学术研究许可，数学建模常用。 |
 | **[Navicat 学术伙伴计划](https://www.navicat.com/en/sponsorship/education/student)** | 全球 | 学校邮箱 / 学生证明 | 提供 **1 年** Navicat Premium 非商业授权，强大的可视化数据库管理工具。 |
+| **[UNiDAYS](https://www.myunidays.com)** | 全球（欧美澳等主流地区） | 学校邮箱 / 在读证明 | **免费**的全球数字学生折扣聚合平台，解锁 Apple、Samsung、软件及大量欧美品牌学生价（每年复核）。 |
+| **[Student Beans](https://www.studentbeans.com)** | 全球（欧美澳等主流地区） | 学校邮箱 / 学生证 | 与 UNiDAYS 齐名的**免费**学生验证与优惠聚合平台，覆盖科技、软件与生活消费。 |
+| **[ISIC 国际学生证](https://www.isic.org)** | 全球 130+ 国家 | 在读证明（需少量办卡费） | 联合国教科文组织认可的国际学生证，出国旅游、博物馆门票、国际机票及 JetBrains 等软件认证均认可。 |
 
 ---
 
@@ -94,6 +97,8 @@
 | 项目 | 适用地区 | 认证方式 | 核心权益与说明 |
 | :--- | :--- | :--- | :--- |
 | **[Figma 教育版](https://www.figma.com/education/)** | 全球 | 学校邮箱 / 学生证明 | **免费**使用 Professional 团队版全部功能，主流在线 UI/UX 设计与实时协作工具。 |
+| **[Adobe Creative Cloud 学生与教师版](https://www.adobe.com/creativecloud/buy/students.html)** | 全球（支持地区） | SheerID | 含 Photoshop、Premiere Pro、Illustrator、After Effects 等 20+ 全家桶软件与 Firefly 生成式 AI，首年约 **$19.99/月**（次年 $39.99/月，大幅低于原价）。 |
+| **[Unity Student Plan](https://unity.com/products/unity-student)** | 全球 | SheerID / 学生认证 | **免费**，游戏开发与 3D 实时渲染引擎学生计划，计算机与数字媒体专业常用。 |
 | **[Sketch](https://www.sketch.com/education/)** | 全球 | 学校邮箱 / 学生证明 | **免费**，通过学生/教师身份验证后免费使用，macOS 下经典界面与原型设计工具。 |
 | **[Axure](https://www.axure.com/edu)** | 全球 | 学校邮箱 / 学生证明 | **免费**，产品经理与运营常用的专业原型设计工具，学生与教师免费。 |
 | **[Shapr3D](https://www.shapr3d.com/education)** | 全球 | 学校邮箱 / 学生证明 | **免费**，专为 iPad / Apple Pencil 与桌面端打造的专业 CAD 建模工具。 |
@@ -116,6 +121,7 @@
 | 项目 | 适用地区 | 认证方式 | 核心权益与说明 |
 | :--- | :--- | :--- | :--- |
 | **[Notion](https://www.notion.so/student)** | 全球 | 学校邮箱 / GitHub 学生包 | **免费**升级至 Plus 个人教育版，集笔记、知识库与任务管理于一体的协作平台。 |
+| **[Miro for Education](https://miro.com/education/)** | 全球 | 学校邮箱 / 学生证明 | **免费 2 年**（可续期）在线协作白板团队版，支持无限画板，小组讨论与头脑风暴神器。 |
 | **[Taskade](https://www.taskade.com)** | 全球 | 联系客服提供学生证明 | **免费**升级专业版，集待办、思维导图、笔记与实时协作为一体。 |
 | **[语雀 公益计划](https://www.yuque.com/about/welfare)** | 中国大陆 | `.edu.cn` 教育邮箱 | **免费 1 年**个人专业版公益计划（在读期间可每年续订），蚂蚁集团旗下文档与知识库工具。 |
 | **[WPS Office 教育专区](https://www.wps.cn/)** | 中国大陆 | 学信网 / 校园认证 | 在官网或 App 内进入学生/教育专区认证，可享教育专属模板、PDF 工具等学习办公权益。 |
@@ -124,6 +130,8 @@
 | **[flomo 教育优惠](https://flomoapp.com/)** | 中国大陆 | App/网页端提交证明 | 面向在校学生、高校教师及毕业 2 年内用户，PRO 会员 99 元/455 天、MAX 会员 249 元/年（会员中心 -> 教育优惠）。 |
 | **[Apple Music](https://tb.j5k6.com/1eH2l)** | 全球 / 中国大陆 | UNiDAYS / 支付宝学信网 | 高校学生认证后可享最长 **48 个月**学生订阅价；附带的 Apple TV 权益受地区限制（中国大陆服务清单不含 Apple TV 订阅）。 |
 | **[Spotify 学生优惠（香港区）](https://www.spotify.com/hk-zh/student/)** | 香港等支持地区 | SheerID | 香港区官网学生价 **HK$48/月**（标准个人版 HK$78/月），畅享 Premium 学生订阅。 |
+| **[YouTube Premium Student](https://www.youtube.com/premium/student)** | 海外支持地区 | SheerID（每年复核） | 首月免费试用 + 学生折扣月费，享无广告播放、后台播放及 YouTube Music（价格因地区而异）。 |
+| **[Amazon Prime Student](https://www.amazon.com/primestudent)** | 美/英/日/德等支持地区 | 学校邮箱 / 学生证明 | 享 **6 个月免费试用**，后续按标准 Prime 会员 **5 折**续费（含免邮与 Prime Video 等权益）。 |
 | **网易云音乐 黑胶 VIP 青春套餐** | 中国大陆 | App 内学生身份认证 | 在网易云音乐 App「会员中心」完成学生认证，享学生专享黑胶 VIP 折扣（实时月价以 App 为准）。 |
 | **QQ 音乐 学生认证会员** | 中国大陆 | App 内学信网/学生认证 | 在 QQ 音乐 App「会员中心 -> 学生专区」完成认证，享学生专享会员折扣（实时月价以 App 为准）。 |
 | **百度网盘学生会员** | 中国大陆 | 学信网 / 京东校园等合作渠道 | 通过学生身份认证可享 SVIP 学生年卡优惠（活动价约 148～158 元/年，原价 298 元/年）。 |
@@ -160,9 +168,7 @@
 
 ---
 
-## 📚 推荐阅读与成长建议
-
-### 📒 写给大学新生的一点建议
+## 📒 成长建议
 
 步入大学意味着拥有了前所未有的时间自主权和探索空间。除了用好上面的工具与优惠，也希望这些小建议能帮你的大学生活更充实：
 
@@ -171,13 +177,6 @@
 3. **主动与老师和学长交流**：课堂上敢于提问，课后敢于向感兴趣的课题组或老师发邮件自荐，机会往往留给主动敲门的人。
 4. **保留凭证，学会保护自己**：租房、兼职、购物或签协议时养成留存合同、发票和聊天记录的习惯。
 5. **常怀善意，常和家人联系**：有余力时参与志愿服务，假期多抽时间问候和陪伴家人。
-
-### 🔗 实用延伸阅读
-
-* **少数派**：[在校师生福利：Apple、微软、Adobe 等产品如何通过教育优惠购买](https://sspai.com/post/39430) · [学生专属福利，你可能还不知道这些常用服务其实可以更便宜](https://sspai.com/post/43533)
-* **电脑选购社区**：笔记本可参考 [笔记本吧](https://tieba.baidu.com/f?kw=%E7%AC%94%E8%AE%B0%E6%9C%AC&ie=utf-8) 或微信公众号「笔吧评测室」；台式机可关注显卡吧、图拉丁吧、电脑吧等硬件社区。
-* **如何高效提问**：《[提问的智慧](https://gitee.com/mifar/How-To-Ask-Questions-The-Smart-Way)》 · 《[别像弱智一样提问](https://github.com/octowhale/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)》
-* **PPT 制作**：《[放 PPT 之前，请你注意这一些！](https://www.mf8.biz/ppt-tips/)》
 
 ---
 

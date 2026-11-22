@@ -30,7 +30,7 @@
 
 ### 🧭 快速導覽
 
-[🎒 學生禮包](#-學生禮包) · [🤖 AI 工具優惠](#-ai-工具優惠) · [⌨️ 雲端服務優惠](#️-雲端服務優惠) · [💻 硬體優惠](#-硬體優惠) · [💿 軟體與訂閱](#-軟體與訂閱) · [😋 吃喝玩樂與交通](#-吃喝玩樂與交通) · [📝 推薦工具](#-推薦工具) · [📚 延伸閱讀與大學建議](#-延伸閱讀與大學建議)
+[🎒 學生禮包](#-學生禮包) · [🤖 AI 工具優惠](#-ai-工具優惠) · [⌨️ 雲端服務優惠](#️-雲端服務優惠) · [💻 硬體優惠](#-硬體優惠) · [💿 軟體與訂閱](#-軟體與訂閱) · [😋 吃喝玩樂與交通](#-吃喝玩樂與交通) · [📝 推薦工具](#-推薦工具) · [📒 大學建議](#-大學建議)
 
 ---
 
@@ -48,6 +48,9 @@
 | **[Google Workspace for Education](https://edu.google.com/workspace-for-education/editions/education-fundamentals/)** | 海外（不含中國大陸） | 教育機構統一申請 | 原 G Suite for Education，提供學校與教育機構的 Google 生產力套件。 |
 | **[LINGO Educational Research License](https://www.lindo.com/)** | 全球 | 學校信箱 / 官方申請 | 知名線性與非線性最佳化求解器，向符合資格的學生與教授免費提供 **6 個月可續期**的無限制學術研究授權。 |
 | **[Navicat 學術夥伴計畫](https://www.navicat.com/en/sponsorship/education/student)** | 全球 | 學校信箱 / 學生證明 | 提供 **1 年** Navicat Premium 非商業授權，強大的視覺化資料庫管理工具。 |
+| **[UNiDAYS](https://www.myunidays.com)** | 全球（歐美澳等主流地區） | 學校信箱 / 在學證明 | **免費**的全球數位學生折扣聚合平台，解鎖 Apple、Samsung、軟體及大量歐美品牌學生價（每年複核）。 |
+| **[Student Beans](https://www.studentbeans.com)** | 全球（歐美澳等主流地區） | 學校信箱 / 學生證 | 與 UNiDAYS 齊名的**免費**學生驗證與優惠聚合平台，涵蓋科技、軟體與生活消費。 |
+| **[ISIC 國際學生證](https://www.isic.org)** | 全球 130+ 國家 | 在學證明（需少量辦卡費） | 聯合國教科文組織認可的國際學生證，出國旅遊、博物館門票、國際機票及 JetBrains 等軟體認證皆認可。 |
 
 ---
 
@@ -94,6 +97,8 @@
 | 項目 | 適用地區 | 認證方式 | 核心權益與說明 |
 | :--- | :--- | :--- | :--- |
 | **[Figma 教育版](https://www.figma.com/education/)** | 全球 | 學校信箱 / 學生證明 | **免費**使用 Professional 團隊版完整功能，主流線上 UI/UX 設計與即時協作工具。 |
+| **[Adobe Creative Cloud 學生與教師版](https://www.adobe.com/creativecloud/buy/students.html)** | 全球（支援地區） | SheerID | 含 Photoshop、Premiere Pro、Illustrator、After Effects 等 20+ 全家桶軟體與 Firefly 生成式 AI，首年約 **$19.99/月**（次年 $39.99/月）。 |
+| **[Unity Student Plan](https://unity.com/products/unity-student)** | 全球 | SheerID / 學生認證 | **免費**，遊戲開發與 3D 即時渲染引擎學生計畫，資訊與數位媒體科系常用。 |
 | **[Sketch](https://www.sketch.com/education/)** | 全球 | 學校信箱 / 學生證明 | **免費**，學生與教師認證後免費使用，macOS 經典介面與原型設計工具。 |
 | **[Axure](https://www.axure.com/edu)** | 全球 | 學校信箱 / 學生證明 | **免費**，產品經理與 UX 常用原型設計工具，師生免費。 |
 | **[Shapr3D](https://www.shapr3d.com/education)** | 全球 | 學校信箱 / 學生證明 | **免費**，支援 iPad / Apple Pencil 與桌機的專業 CAD 建模工具。 |
@@ -116,6 +121,7 @@
 | 項目 | 適用地區 | 認證方式 | 核心權益與說明 |
 | :--- | :--- | :--- | :--- |
 | **[Notion](https://www.notion.so/student)** | 全球 | 學校信箱 / GitHub 學生包 | **免費**升級 Plus 個人教育版，整合筆記、知識庫與任務管理的協作平台。 |
+| **[Miro for Education](https://miro.com/education/)** | 全球 | 學校信箱 / 學生證明 | **免費 2 年**（可續期）線上協作白板團隊版，支援無限畫板，分組討論與腦力激盪利器。 |
 | **[Taskade](https://www.taskade.com)** | 全球 | 聯繫客服提供學生證明 | **免費**升級專業版，結合待辦清單、心智圖、筆記與即時協作。 |
 | **[語雀 公益計畫](https://www.yuque.com/about/welfare)** | 中國大陸 | `.edu.cn` 教育信箱 | **免費 1 年**個人專業版公益計畫（在學期間每年可續訂），文件與知識庫協作工具。 |
 | **[WPS Office 教育專區](https://www.wps.cn/)** | 中國大陸 | 學信網 / 校園認證 | 於官網或 App 進入學生/教育專區認證，享專屬範本與 PDF 等學習辦公權益。 |
@@ -124,6 +130,8 @@
 | **[flomo 教育優惠](https://flomoapp.com/)** | 中國大陸 | App/網頁端提交證明 | 面向在校學生、教師及畢業 2 年內用戶，PRO 99 元/455 天、MAX 249 元/年。 |
 | **[Apple Music](https://tb.j5k6.com/1eH2l)** | 全球 / 港澳台 / 大陸 | UNiDAYS / 學信網 | 大專學生認證享最長 **48 個月**學生訂閱價；附帶的 Apple TV 權益依地區提供（中國大陸服務清單不含 Apple TV 訂閱）。 |
 | **[Spotify 學生優惠（香港區）](https://www.spotify.com/hk-zh/student/)** | 香港等支援地區 | SheerID | 香港區官網學生價 **HK$48/月**（標準個人版 HK$78/月），暢享 Premium 學生訂閱。 |
+| **[YouTube Premium Student](https://www.youtube.com/premium/student)** | 海外支援地區 | SheerID（每年複核） | 首月免費試用 + 學生折扣月費，享無廣告播放、背景播放與 YouTube Music（價格依地區而異）。 |
+| **[Amazon Prime Student](https://www.amazon.com/primestudent)** | 美/英/日/德等支援地區 | 學校信箱 / 學生證明 | 享 **6 個月免費試用**，後續依標準 Prime 會員 **5 折**續費（含免運與 Prime Video 等權益）。 |
 | **網易雲音樂 黑膠 VIP 青春套餐** | 中國大陸 | App 內學生身分認證 | 於 App「會員中心」完成學生認證享專屬折扣（即時月費以 App 顯示為準）。 |
 | **QQ 音樂 學生認證會員** | 中國大陸 | App 內學信網/學生認證 | 於 App「會員中心 -> 學生專區」完成認證享專屬折扣（即時月費以 App 顯示為準）。 |
 | **百度網盤學生會員** | 中國大陸 | 學信網 / 京東校園等渠道 | 認證享 SVIP 學生年卡優惠（活動價約 148～158 元人民幣/年，原價 298 元/年）。 |
@@ -160,21 +168,13 @@
 
 ---
 
-## 📚 延伸閱讀與大學建議
-
-### 📒 給大學新鮮人的一點建議
+## 📒 大學建議
 
 1. **走出舒適圈，參與競賽與開源專案**：多參加校級、區域或國際競賽，結識更優秀的同儕，拓展視野。
 2. **刻意練習公開表達**：多把握上台簡報與分享的機會，清晰表達是受益終身的複利能力。
 3. **主動向老師與學長姐請益**：課堂勇於提問，課後主動聯繫感興趣的實驗室或教授，機會常留給主動叩門的人。
 4. **保留憑證，學會保護自己**：租屋、打工或簽約時養成保留合約、收據與對話紀錄的習慣。
 5. **常懷善意，多陪伴家人**：有餘力時參與志工服務，假期別忘了多問候與陪伴長輩。
-
-### 🔗 延伸資源
-
-* **少數派**：[在校師生福利：Apple、微軟、Adobe 等產品如何透過教育優惠購買](https://sspai.com/post/39430) · [學生專屬福利，你可能還不知道這些常用服務其實可以更便宜](https://sspai.com/post/43533)
-* **如何高效提問**：《[提問的智慧](https://gitee.com/mifar/How-To-Ask-Questions-The-Smart-Way)》 · 《[別像弱智一樣提問](https://github.com/octowhale/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)》
-* **簡報製作**：《[放 PPT 之前，請你注意這一些！](https://www.mf8.biz/ppt-tips/)》
 
 ---
 

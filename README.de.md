@@ -47,6 +47,9 @@ Dieses Repository sammelt legale Rabatte und kostenlose Vorteile für Studierend
 | **[Google Workspace for Education](https://edu.google.com/workspace-for-education/editions/education-fundamentals/)** | Weltweit (ohne CN) | Über die Hochschule | Ehemals G Suite for Education; Google-Produktivitätssuite über teilnehmende Bildungseinrichtungen. |
 | **[LINGO Educational Research License](https://www.lindo.com/)** | Weltweit | Hochschul-E-Mail / Antrag | **Kostenlose, alle 6 Monate verlängerbare** akademische Forschungslizenz ohne Größenbeschränkung für mathematische Optimierung. |
 | **[Navicat Academic Partner Program](https://www.navicat.com/en/sponsorship/education/student)** | Weltweit | Hochschul-E-Mail / Nachweis | **Kostenlose 1-Jahres-Lizenz** (nicht-kommerziell) für das Datenbank-Tool Navicat Premium. |
+| **[UNiDAYS](https://www.myunidays.com)** | Weltweit (DE, EU, US, UK usw.) | Hochschul-E-Mail / Nachweis | **Kostenlose** Verifizierungs- und Rabattplattform für Marken wie Apple, Samsung, Software und Mode (jährliche Prüfung). |
+| **[Student Beans](https://www.studentbeans.com)** | Weltweit (DE, EU, US, UK usw.) | Hochschul-E-Mail / Ausweis | **Kostenlose** globale Studentenrabatt-Plattform für Technik, Software und Lifestyle. |
+| **[ISIC-Karte](https://www.isic.org)** | 130+ Länder | Studiennachweis (kleine Gebühr) | UNESCO-anerkannter internationaler Studierendenausweis für Reisen, Museen, Flüge und Software-Nachweise (z. B. JetBrains). |
 
 ---
 
@@ -84,6 +87,8 @@ Dieses Repository sammelt legale Rabatte und kostenlose Vorteile für Studierend
 | Angebot | Region | Nachweis | Wichtigste Vorteile & Hinweise |
 | :--- | :--- | :--- | :--- |
 | **[Figma Education](https://www.figma.com/education/)** | Weltweit | Hochschul-E-Mail / Nachweis | **Kostenloser** Zugang zum Figma Professional-Plan für Studierende und Lehrende. |
+| **[Adobe Creative Cloud für Studierende](https://www.adobe.com/creativecloud/buy/students.html)** | Unterstützte Regionen | SheerID | Über 20 Kreativ-Apps (Photoshop, Premiere Pro, Illustrator, After Effects usw.) + Firefly KI mit deutlichem Bildungsrabatt im 1. Jahr (~$19,99/Monat, danach ~$39,99/Monat). |
+| **[Unity Student Plan](https://unity.com/products/unity-student)** | Weltweit | SheerID / Studiennachweis | **Kostenloser** Studierenden-Tarif für Unity 3D- und Spieleentwicklung. |
 | **[Sketch](https://www.sketch.com/education/)** | Weltweit | Hochschul-E-Mail / Nachweis | **Kostenlose** macOS-UI/UX-Designlizenz nach Bildungs-Verifizierung. |
 | **[Axure](https://www.axure.com/edu)** | Weltweit | Hochschul-E-Mail / Nachweis | **Kostenlose** Prototyping-Lizenz für Studierende und Lehrkräfte. |
 | **[Shapr3D](https://www.shapr3d.com/education)** | Weltweit | Hochschul-E-Mail / Nachweis | **Kostenlose** Bildungs-CAD-Lizenz für iPad, macOS und Windows. |
@@ -103,6 +108,9 @@ Dieses Repository sammelt legale Rabatte und kostenlose Vorteile für Studierend
 | **[Taskade](https://www.taskade.com)** | Weltweit | Support mit Studiennachweis kontaktieren | **Kostenloses** Pro-Upgrade für Aufgaben, Notizen und Mindmaps. |
 | **[Apple Music Student](https://support.apple.com/en-us/106008)** | Weltweit | UNiDAYS | Vergünstigtes Studentenabo für bis zu **48 Monate** (Apple-TV-Bundle regional abhängig). |
 | **[Spotify Premium Student](https://www.spotify.com/student/)** | Unterstützte Länder | SheerID | Vergünstigtes Premium-Studentenabo (Preise und Zusatzleistungen je nach Land). |
+| **[Miro for Education](https://miro.com/education/)** | Weltweit | Hochschul-E-Mail / Nachweis | **2 Jahre kostenloser** (verlängerbarer) Team-Workspace für kollaborative Online-Whiteboards mit unbegrenzten Boards. |
+| **[YouTube Premium Student](https://www.youtube.com/premium/student)** | Unterstützte Länder | SheerID (jährliche Prüfung) | 1 Monat kostenlos testen + vergünstigter Studierendentarif für werbefreies YouTube und YouTube Music. |
+| **[Amazon Prime Student](https://www.amazon.com/primestudent)** | Unterstützte Länder | Hochschul-E-Mail / Nachweis | **6 Monate kostenlos testen**, danach **50 % Rabatt** auf die reguläre Prime-Mitgliedschaft. |
 
 ---
 
