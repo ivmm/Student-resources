@@ -1,0 +1,49 @@
+name: Monthly Link Check
+
+on:
+  schedule:
+    # 每月 1 日 UTC 02:00（北京时间 10:00）自动巡检一次
+    - cron: "0 2 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check links in all README files
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --accept 200,206,429
+            --timeout 20
+            --max-retries 2
+            --exclude "perplexity\.ai"
+            --exclude "tableau\.com"
+            --exclude "figma\.com"
+            --exclude "dell\.com"
+            --exclude "tieba\.baidu\.com"
+            --exclude "microsoft\.com/en-us/store/b/education"
+            --exclude "c\.duomai\.com"
+            --exclude "tb\.j5k6\.com"
+            --exclude "navicat\.com"
+            README*.md
+          fail: false
+          output: lychee/out.md
+
+      - name: Create or update issue if broken links are found
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "🔗 定期死链巡检报告 / Monthly Link Check Report"
+          content-filepath: ./lychee/out.md
+          labels: "bug"

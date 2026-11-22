@@ -1,0 +1,77 @@
+name: "✨ 提交新学生优惠 / Submit a Resource"
+description: "推荐新的学生优惠或教育权益资源 / Recommend a new student discount or educational resource"
+title: "[Resource] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢贡献！请尽量提供官方链接和可核验的权益条款，以便维护者快速审核并添加到表格中。
+        Thank you for contributing! Please provide official links and verifiable terms so maintainers can review and add your submission quickly.
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: "所属分类 / Category"
+      options:
+        - "🎒 学生包 / Student Packs"
+        - "🤖 AI 工具优惠 / AI Tools"
+        - "⌨️ 云服务优惠 / Cloud Services"
+        - "💻 硬件优惠 / Hardware"
+        - "💿 软件与订阅 / Software & Subscriptions"
+        - "😋 吃喝玩乐与出行 / Lifestyle & Travel"
+        - "📝 推荐工具 / Recommended Tools"
+    validations:
+      required: true
+
+  - type: input
+    id: name
+    attributes:
+      label: "项目名称 / Resource Name"
+      placeholder: "例如：Zed Student / GitHub Copilot"
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: "官方申请或说明链接 / Official URL"
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: input
+    id: region
+    attributes:
+      label: "适用地区 / Region"
+      description: "请说明支持全球、中国大陆、港澳台还是特定国家/地区（如：全球 / 仅限美国 / 中国大陆）"
+      placeholder: "全球（Global） / 中国大陆 / 港澳台 / 仅限美国..."
+    validations:
+      required: true
+
+  - type: input
+    id: verification
+    attributes:
+      label: "认证方式 / Verification Method"
+      placeholder: "如：.edu.cn 邮箱 / 学信网 / SheerID / 学生证 / GitHub 学生包"
+    validations:
+      required: true
+
+  - type: textarea
+    id: benefits
+    attributes:
+      label: "核心权益与限制 / Benefits & Limitations"
+      description: "请写明价格/折扣、有效期、是否需要绑卡或有地区/续费限制"
+      placeholder: "例如：免费 1 年 Pro，每月含 $10 AI 额度；需年满 18 岁及注册满 30 天的 GitHub 账号。"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: "提交前确认 / Checklist"
+      options:
+        - label: "我已确认该资源目前有效且为官方渠道 / I confirm this offer is currently active and from an official source"
+          required: true
+        - label: "我已搜索现有 README，确认没有重复收录 / I have checked the README to ensure this is not a duplicate"
+          required: true
