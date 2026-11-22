@@ -1,9 +1,13 @@
-name: Monthly Link Check
+name: Link Check
 
 on:
   schedule:
     # 每月 1 日 UTC 02:00（北京时间 10:00）自动巡检一次
     - cron: "0 2 1 * *"
+  pull_request:
+    paths:
+      - "README*.md"
+      - ".github/workflows/link-check.yml"
   workflow_dispatch:
 
 permissions:
@@ -33,6 +37,7 @@ jobs:
             --exclude "dell\.com"
             --exclude "adobe\.com"
             --exclude "amazon\.com"
+            --exclude "autodesk\.com"
             --exclude "microsoft\.com/en-us/store/b/education"
             --exclude "c\.duomai\.com"
             --exclude "tb\.j5k6\.com"
@@ -41,10 +46,21 @@ jobs:
           fail: false
           output: lychee/out.md
 
-      - name: Create or update issue if broken links are found
-        if: steps.lychee.outputs.exit_code != 0
-        uses: peter-evans/create-issue-from-file@v5
-        with:
-          title: "🔗 定期死链巡检报告 / Monthly Link Check Report"
-          content-filepath: ./lychee/out.md
-          labels: "bug"
+      - name: Fail PR check if broken links are found
+        if: github.event_name == 'pull_request' && steps.lychee.outputs.exit_code != '0'
+        run: |
+          cat ./lychee/out.md
+          exit 1
+
+      - name: Create or update issue if broken links are found (scheduled/manual)
+        if: github.event_name != 'pull_request' && steps.lychee.outputs.exit_code != '0'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TITLE="🔗 定期死链巡检报告 / Monthly Link Check Report"
+          EXISTING=$(gh issue list --state open --label "bug" --search "\"$TITLE\" in:title" --json number --jq '.[0].number // empty')
+          if [ -n "$EXISTING" ]; then
+            gh issue edit "$EXISTING" --body-file ./lychee/out.md
+          else
+            gh issue create --title "$TITLE" --label "bug" --body-file ./lychee/out.md
+          fi

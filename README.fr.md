@@ -6,7 +6,6 @@
 
 ![version](https://img.shields.io/badge/Student--resources-version%207-green.svg?style=flat)
 ![from](https://img.shields.io/badge/from-mf8.biz-ff69b4.svg?style=flat)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/ivmm/Student-resources/blob/master/license)
 
 [简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md) | [Deutsch](README.de.md) | **Français** | [Español](README.es.md)
 
@@ -26,7 +25,7 @@ Ce dépôt rassemble des réductions légitimes et des avantages gratuits réser
 >
 > *Remarque : Cette version française regroupe uniquement les **ressources disponibles à l'international**. Pour les offres locales en Chine continentale, consultez [README.md](README.md).*
 
-* **Licence** : Voir [License](https://github.com/ivmm/Student-resources/blob/master/license).
+* **Conditions d'utilisation** : Voir les [notes d'utilisation](https://github.com/ivmm/Student-resources/blob/master/license). Lors de la mise à jour d'une offre mondiale via PR, merci de synchroniser les autres versions linguistiques si possible.
 * **Confidentialité** : Méfiez-vous des sites non officiels demandant des copies de pièces d'identité. Pour les bourses ou aides officielles, adressez-vous toujours directement à votre établissement.
 
 ### 🧭 Navigation rapide
@@ -49,7 +48,7 @@ Ce dépôt rassemble des réductions légitimes et des avantages gratuits réser
 | **[Navicat Academic Partner Program](https://www.navicat.com/en/sponsorship/education/student)** | Mondial | E-mail universitaire / Justificatif | **Licence gratuite d'un an** (non commerciale) pour l'outil de gestion de bases de données Navicat Premium. |
 | **[UNiDAYS](https://www.myunidays.com)** | Mondial (FR, UE, US, UK...) | E-mail universitaire / Justificatif | Plateforme **gratuite** de vérification et de réductions étudiantes (Apple, Samsung, logiciels, mode ; vérification annuelle). |
 | **[Student Beans](https://www.studentbeans.com)** | Mondial (FR, UE, US, UK...) | E-mail universitaire / Carte | Plateforme **gratuite** de réductions étudiantes sur la tech, les logiciels et le quotidien. |
-| **[Carte ISIC](https://www.isic.org)** | 130+ pays | Certificat de scolarité (frais modiques) | Carte d'étudiant internationale reconnue par l'UNESCO, acceptée dans le monde entier pour les voyages, musées, vols et logiciels (ex. JetBrains). |
+| **[Carte ISIC](https://www.isic.org)** | 100+ pays | Certificat de scolarité (frais modiques) | Carte d'étudiant internationale reconnue par l'UNESCO, acceptée dans le monde entier pour les voyages, musées, vols et logiciels (ex. JetBrains). |
 
 ---
 
@@ -87,7 +86,7 @@ Ce dépôt rassemble des réductions légitimes et des avantages gratuits réser
 | Ressource | Région | Vérification | Avantages clés & Remarques |
 | :--- | :--- | :--- | :--- |
 | **[Figma Education](https://www.figma.com/education/)** | Mondial | E-mail universitaire / Justificatif | Accès **gratuit** au plan Figma Professional pour étudiants et enseignants. |
-| **[Adobe Creative Cloud Étudiants](https://www.adobe.com/creativecloud/buy/students.html)** | Régions éligibles | SheerID | Plus de 20 applications créatives (Photoshop, Premiere Pro, Illustrator, After Effects...) + IA Firefly à tarif fortement réduit la 1re année (~19,99 $/mois, puis ~39,99 $/mois). |
+| **[Adobe Creative Cloud Étudiants](https://www.adobe.com/creativecloud/buy/students.html)** | Régions éligibles | SheerID | Plus de 20 applications créatives (Photoshop, Premiere Pro, Illustrator, After Effects...) + IA Firefly à tarif réduit (ex. tarif US ~19,99 $/mois la 1re année, puis ~39,99 $/mois ; tarifs locaux variables). |
 | **[Unity Student Plan](https://unity.com/products/unity-student)** | Mondial | SheerID / Vérification étudiante | Plan étudiant **gratuit** pour le développement de jeux vidéo et la 3D temps réel avec Unity. |
 | **[Sketch](https://www.sketch.com/education/)** | Mondial | E-mail universitaire / Justificatif | Licence macOS de design UI/UX **gratuite** après vérification académique. |
 | **[Axure](https://www.axure.com/edu)** | Mondial | E-mail universitaire / Justificatif | Licence **gratuite** de prototypage pour étudiants et enseignants. |
@@ -109,8 +108,8 @@ Ce dépôt rassemble des réductions légitimes et des avantages gratuits réser
 | **[Apple Music Étudiant](https://support.apple.com/en-us/106008)** | Mondial | UNiDAYS | Tarif étudiant jusqu'à **48 mois** (l'accès inclus à Apple TV varie selon la région). |
 | **[Spotify Premium Étudiant](https://www.spotify.com/student/)** | Pays éligibles | SheerID | Abonnement Premium Étudiant à tarif réduit (tarifs et bonus variables selon le pays). |
 | **[Miro for Education](https://miro.com/education/)** | Mondial | E-mail universitaire / Justificatif | Espace d'équipe **gratuit pendant 2 ans** (renouvelable) pour tableaux blancs collaboratifs illimités. |
-| **[YouTube Premium Étudiant](https://www.youtube.com/premium/student)** | Pays éligibles | SheerID (vérification annuelle) | 1 mois d'essai gratuit + tarif étudiant réduit pour YouTube sans publicité et YouTube Music. |
-| **[Amazon Prime Student](https://www.amazon.com/primestudent)** | Pays éligibles | E-mail universitaire / Justificatif | **Essai gratuit de 6 mois**, puis **-50 %** sur l'abonnement Prime standard. |
+| **[YouTube Premium Étudiant](https://www.youtube.com/premium/student)** | Pays éligibles | SheerID (vérification annuelle) | Tarif étudiant réduit pour YouTube sans publicité et YouTube Music (période d'essai et prix variables selon le pays). |
+| **[Amazon Prime Student](https://www.amazon.com/primestudent)** | Pays éligibles | E-mail universitaire / Justificatif | Période d'essai étudiante suivie d'une remise sur l'abonnement Prime (durée et remise variables selon le pays). |
 
 ---
 

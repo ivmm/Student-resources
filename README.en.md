@@ -6,7 +6,6 @@
 
 ![version](https://img.shields.io/badge/Student--resources-version%207-green.svg?style=flat)
 ![from](https://img.shields.io/badge/from-mf8.biz-ff69b4.svg?style=flat)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/ivmm/Student-resources/blob/master/license)
 
 [简体中文](README.md) | [繁體中文](README.zh-TW.md) | **English** | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md)
 
@@ -26,7 +25,7 @@ This repository curates legitimate discounts and free perks available to verifie
 >
 > *Note: This English edition includes **globally available resources** only. For Mainland China local perks, see [README.md](README.md).*
 
-* **License**: See [License](https://github.com/ivmm/Student-resources/blob/master/license) for usage and attribution terms.
+* **Usage Terms**: See [Usage & Attribution Notes](https://github.com/ivmm/Student-resources/blob/master/license). When updating global offers via PR, please sync changes across other language READMEs if possible.
 * **Privacy & Security**: Be cautious of unofficial sites requesting government IDs or holding-ID selfies. For official scholarships or financial aid, always consult your university directly.
 
 ### 🧭 Quick Navigation
@@ -49,7 +48,7 @@ This repository curates legitimate discounts and free perks available to verifie
 | **[Navicat Academic Partner Program](https://www.navicat.com/en/sponsorship/education/student)** | Global | School email / Student proof | **Free 1-year** non-commercial license for Navicat Premium database management tool. |
 | **[UNiDAYS](https://www.myunidays.com)** | Global (US, UK, EU, AU, etc.) | School email / Proof of status | **Free** student verification & discount network unlocking deals from Apple, Samsung, software, and major brands (annual re-verification). |
 | **[Student Beans](https://www.studentbeans.com)** | Global (US, UK, EU, AU, etc.) | School email / Student ID | **Free** global student discount & verification platform covering tech, software, and lifestyle brands. |
-| **[ISIC Card](https://www.isic.org)** | 130+ countries | Enrollment proof (small fee) | UNESCO-endorsed International Student Identity Card accepted worldwide for travel, museums, flights, and software verification (e.g., JetBrains). |
+| **[ISIC Card](https://www.isic.org)** | 100+ countries | Enrollment proof (small fee) | UNESCO-endorsed International Student Identity Card accepted worldwide for travel, museums, flights, and software verification (e.g., JetBrains). |
 
 ---
 
@@ -87,7 +86,7 @@ This repository curates legitimate discounts and free perks available to verifie
 | Resource | Region | Verification | Key Perks & Notes |
 | :--- | :--- | :--- | :--- |
 | **[Figma Education](https://www.figma.com/education/)** | Global | School email / Proof of status | **Free** access to the Figma Professional plan for students and educators. |
-| **[Adobe Creative Cloud for Students](https://www.adobe.com/creativecloud/buy/students.html)** | Supported regions | SheerID | 20+ creative apps (Photoshop, Premiere Pro, Illustrator, After Effects, etc.) + Firefly AI; introductory rate ~$19.99/mo in year 1 (~$39.99/mo renewal). |
+| **[Adobe Creative Cloud for Students](https://www.adobe.com/creativecloud/buy/students.html)** | Supported regions | SheerID | 20+ creative apps (Photoshop, Premiere Pro, Illustrator, After Effects, etc.) + Firefly AI; e.g., US introductory rate ~$19.99/mo in year 1 (~$39.99/mo renewal; local pricing varies). |
 | **[Unity Student Plan](https://unity.com/products/unity-student)** | Global | SheerID / Student verification | **Free** student plan for Unity real-time 3D and game development. |
 | **[Sketch](https://www.sketch.com/education/)** | Global | School email / Student proof | **Free** macOS UI/UX design license for verified students and educators. |
 | **[Axure](https://www.axure.com/edu)** | Global | School email / Student proof | **Free** prototyping and wireframing license for students and teachers. |
@@ -109,8 +108,8 @@ This repository curates legitimate discounts and free perks available to verifie
 | **[Apple Music Student](https://support.apple.com/en-us/106008)** | Global | UNiDAYS | Discounted student subscription for up to **48 months** (bundled Apple TV availability varies by region). |
 | **[Spotify Premium Student](https://www.spotify.com/student/)** | Supported regions | SheerID | Discounted Premium Student subscription (pricing and bundled perks vary by country). |
 | **[Miro for Education](https://miro.com/education/)** | Global | School email / Student proof | **Free 2-year** renewable team workspace for collaborative online whiteboarding with unlimited boards. |
-| **[YouTube Premium Student](https://www.youtube.com/premium/student)** | Supported regions | SheerID (annual check) | 1-month free trial + discounted student monthly rate for ad-free YouTube and YouTube Music. |
-| **[Amazon Prime Student](https://www.amazon.com/primestudent)** | Supported countries | School email / Proof of status | **6-month free trial**, followed by **50% off** standard Prime membership (shipping, Prime Video, etc.). |
+| **[YouTube Premium Student](https://www.youtube.com/premium/student)** | Supported regions | SheerID (annual check) | Discounted student monthly rate for ad-free YouTube and YouTube Music (trial duration and pricing vary by country). |
+| **[Amazon Prime Student](https://www.amazon.com/primestudent)** | Supported countries | School email / Proof of status | Student trial period followed by discounted Prime membership (trial length and discount vary by country; check local Amazon site). |
 
 ---
 

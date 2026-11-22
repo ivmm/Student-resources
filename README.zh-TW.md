@@ -6,7 +6,6 @@
 
 ![version](https://img.shields.io/badge/Student--resources-version%207-green.svg?style=flat)
 ![from](https://img.shields.io/badge/from-mf8.biz-ff69b4.svg?style=flat)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/ivmm/Student-resources/blob/master/license)
 
 [简体中文](README.md) | **繁體中文** | [English](README.en.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md)
 
@@ -24,7 +23,7 @@
 
 > **最近全量核驗日期：2026 年 11 月**。各項優惠的價格、適用地區與認證規範可能隨官方政策異動，申請前請以官方即時頁面為準。歡迎透過 [Issue 範本](https://github.com/ivmm/Student-resources/issues/new/choose) 投稿新資源或回報過期條款！
 
-* **開源授權**：查閱、轉載或引用本清單請遵循 [License](https://github.com/ivmm/Student-resources/blob/master/license)。
+* **使用與轉載說明**：查閱、轉載或引用本清單請先閱讀 [資源利用說明](https://github.com/ivmm/Student-resources/blob/master/license)；提交 PR 修改全球通用條目時，歡迎同步更新其他語言版本 README。
 * **助學補助**：任何官方獎助學金與助學貸款，請直接洽詢學校學務處、導師或輔導員，**切勿向陌生帳戶匯款**。
 * **防範風險**：遠離非法校園借貸；對於要求提供身分證正反面或手持證件照的非官方管道請務必謹慎，妥善保管學生證與個人證件。
 
@@ -50,7 +49,7 @@
 | **[Navicat 學術夥伴計畫](https://www.navicat.com/en/sponsorship/education/student)** | 全球 | 學校信箱 / 學生證明 | 提供 **1 年** Navicat Premium 非商業授權，強大的視覺化資料庫管理工具。 |
 | **[UNiDAYS](https://www.myunidays.com)** | 全球（歐美澳等主流地區） | 學校信箱 / 在學證明 | **免費**的全球數位學生折扣聚合平台，解鎖 Apple、Samsung、軟體及大量歐美品牌學生價（每年複核）。 |
 | **[Student Beans](https://www.studentbeans.com)** | 全球（歐美澳等主流地區） | 學校信箱 / 學生證 | 與 UNiDAYS 齊名的**免費**學生驗證與優惠聚合平台，涵蓋科技、軟體與生活消費。 |
-| **[ISIC 國際學生證](https://www.isic.org)** | 全球 130+ 國家 | 在學證明（需少量辦卡費） | 聯合國教科文組織認可的國際學生證，出國旅遊、博物館門票、國際機票及 JetBrains 等軟體認證皆認可。 |
+| **[ISIC 國際學生證](https://www.isic.org)** | 全球 100+ 國家 | 在學證明（需少量辦卡費） | 聯合國教科文組織認可的國際學生證，出國旅遊、博物館門票、國際機票及 JetBrains 等軟體認證皆認可。 |
 
 ---
 
@@ -97,7 +96,7 @@
 | 項目 | 適用地區 | 認證方式 | 核心權益與說明 |
 | :--- | :--- | :--- | :--- |
 | **[Figma 教育版](https://www.figma.com/education/)** | 全球 | 學校信箱 / 學生證明 | **免費**使用 Professional 團隊版完整功能，主流線上 UI/UX 設計與即時協作工具。 |
-| **[Adobe Creative Cloud 學生與教師版](https://www.adobe.com/creativecloud/buy/students.html)** | 全球（支援地區） | SheerID | 含 Photoshop、Premiere Pro、Illustrator、After Effects 等 20+ 全家桶軟體與 Firefly 生成式 AI，首年約 **$19.99/月**（次年 $39.99/月）。 |
+| **[Adobe Creative Cloud 學生與教師版](https://www.adobe.com/creativecloud/buy/students.html)** | 全球（支援地區） | SheerID | 含 Photoshop、Premiere Pro、Illustrator、After Effects 等 20+ 全家桶軟體與 Firefly 生成式 AI；以美區為例首年約 **$19.99/月**（次年 $39.99/月，各地價格與幣別不同）。 |
 | **[Unity Student Plan](https://unity.com/products/unity-student)** | 全球 | SheerID / 學生認證 | **免費**，遊戲開發與 3D 即時渲染引擎學生計畫，資訊與數位媒體科系常用。 |
 | **[Sketch](https://www.sketch.com/education/)** | 全球 | 學校信箱 / 學生證明 | **免費**，學生與教師認證後免費使用，macOS 經典介面與原型設計工具。 |
 | **[Axure](https://www.axure.com/edu)** | 全球 | 學校信箱 / 學生證明 | **免費**，產品經理與 UX 常用原型設計工具，師生免費。 |
@@ -130,8 +129,8 @@
 | **[flomo 教育優惠](https://flomoapp.com/)** | 中國大陸 | App/網頁端提交證明 | 面向在校學生、教師及畢業 2 年內用戶，PRO 99 元/455 天、MAX 249 元/年。 |
 | **[Apple Music](https://tb.j5k6.com/1eH2l)** | 全球 / 港澳台 / 大陸 | UNiDAYS / 學信網 | 大專學生認證享最長 **48 個月**學生訂閱價；附帶的 Apple TV 權益依地區提供（中國大陸服務清單不含 Apple TV 訂閱）。 |
 | **[Spotify 學生優惠（香港區）](https://www.spotify.com/hk-zh/student/)** | 香港等支援地區 | SheerID | 香港區官網學生價 **HK$48/月**（標準個人版 HK$78/月），暢享 Premium 學生訂閱。 |
-| **[YouTube Premium Student](https://www.youtube.com/premium/student)** | 海外支援地區 | SheerID（每年複核） | 首月免費試用 + 學生折扣月費，享無廣告播放、背景播放與 YouTube Music（價格依地區而異）。 |
-| **[Amazon Prime Student](https://www.amazon.com/primestudent)** | 美/英/日/德等支援地區 | 學校信箱 / 學生證明 | 享 **6 個月免費試用**，後續依標準 Prime 會員 **5 折**續費（含免運與 Prime Video 等權益）。 |
+| **[YouTube Premium Student](https://www.youtube.com/premium/student)** | 海外支援地區 | SheerID（每年複核） | 享無廣告播放、背景播放與 YouTube Music 學生折扣月費（試用期與實際價格依國家/地區而異，以官網即時頁面為準）。 |
+| **[Amazon Prime Student](https://www.amazon.com/primestudent)** | 美/英/日/德等支援地區 | 學校信箱 / 學生證明 | 享學生專屬試用期及後續 Prime 會員折扣（試用時長與折扣依國家/地區而異，以當地官網為準）。 |
 | **網易雲音樂 黑膠 VIP 青春套餐** | 中國大陸 | App 內學生身分認證 | 於 App「會員中心」完成學生認證享專屬折扣（即時月費以 App 顯示為準）。 |
 | **QQ 音樂 學生認證會員** | 中國大陸 | App 內學信網/學生認證 | 於 App「會員中心 -> 學生專區」完成認證享專屬折扣（即時月費以 App 顯示為準）。 |
 | **百度網盤學生會員** | 中國大陸 | 學信網 / 京東校園等渠道 | 認證享 SVIP 學生年卡優惠（活動價約 148～158 元人民幣/年，原價 298 元/年）。 |

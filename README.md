@@ -6,7 +6,6 @@
 
 ![version](https://img.shields.io/badge/Student--resources-version%207-green.svg?style=flat)
 ![from](https://img.shields.io/badge/from-mf8.biz-ff69b4.svg?style=flat)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/ivmm/Student-resources/blob/master/license)
 
 **简体中文** | [繁體中文](README.zh-TW.md) | [English](README.en.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md)
 
@@ -24,7 +23,7 @@
 
 > **最近全量核验日期：2026 年 11 月**。各类优惠的价格、地区门槛与认证规则可能随厂商政策动态调整，申领前请以官方实时页面为准。欢迎通过 [Issue 模板](https://github.com/ivmm/Student-resources/issues/new/choose) 提交新资源或反馈过期条款！
 
-* **开源协议**：查看、转载或引用本仓库内容请遵循 [License](https://github.com/ivmm/Student-resources/blob/master/license)。
+* **使用与转载说明**：查看、转载或引用本仓库内容请先阅读 [资源利用说明](https://github.com/ivmm/Student-resources/blob/master/license)；提交 PR 修改全球通用条目时，欢迎同步更新其他语言版本 README。
 * **助学资金**：一切官方助学金、奖学金与国家助学贷款，请直接咨询学校资助中心、辅导员或班主任，**切勿向陌生账户转账**。
 * **防范风险**：远离非法校园贷；对要求上传身份证正反面或手持身份证的非官方渠道保持高度警惕，妥善保管个人学生证与身份证件。
 
@@ -50,7 +49,7 @@
 | **[Navicat 学术伙伴计划](https://www.navicat.com/en/sponsorship/education/student)** | 全球 | 学校邮箱 / 学生证明 | 提供 **1 年** Navicat Premium 非商业授权，强大的可视化数据库管理工具。 |
 | **[UNiDAYS](https://www.myunidays.com)** | 全球（欧美澳等主流地区） | 学校邮箱 / 在读证明 | **免费**的全球数字学生折扣聚合平台，解锁 Apple、Samsung、软件及大量欧美品牌学生价（每年复核）。 |
 | **[Student Beans](https://www.studentbeans.com)** | 全球（欧美澳等主流地区） | 学校邮箱 / 学生证 | 与 UNiDAYS 齐名的**免费**学生验证与优惠聚合平台，覆盖科技、软件与生活消费。 |
-| **[ISIC 国际学生证](https://www.isic.org)** | 全球 130+ 国家 | 在读证明（需少量办卡费） | 联合国教科文组织认可的国际学生证，出国旅游、博物馆门票、国际机票及 JetBrains 等软件认证均认可。 |
+| **[ISIC 国际学生证](https://www.isic.org)** | 全球 100+ 国家 | 在读证明（需少量办卡费） | 联合国教科文组织认可的国际学生证，出国旅游、博物馆门票、国际机票及 JetBrains 等软件认证均认可。 |
 
 ---
 
@@ -97,7 +96,7 @@
 | 项目 | 适用地区 | 认证方式 | 核心权益与说明 |
 | :--- | :--- | :--- | :--- |
 | **[Figma 教育版](https://www.figma.com/education/)** | 全球 | 学校邮箱 / 学生证明 | **免费**使用 Professional 团队版全部功能，主流在线 UI/UX 设计与实时协作工具。 |
-| **[Adobe Creative Cloud 学生与教师版](https://www.adobe.com/creativecloud/buy/students.html)** | 全球（支持地区） | SheerID | 含 Photoshop、Premiere Pro、Illustrator、After Effects 等 20+ 全家桶软件与 Firefly 生成式 AI，首年约 **$19.99/月**（次年 $39.99/月，大幅低于原价）。 |
+| **[Adobe Creative Cloud 学生与教师版](https://www.adobe.com/creativecloud/buy/students.html)** | 全球（支持地区） | SheerID | 含 Photoshop、Premiere Pro、Illustrator、After Effects 等 20+ 全家桶软件与 Firefly 生成式 AI；以美区为例首年约 **$19.99/月**（次年 $39.99/月，各地价格与币种不同）。 |
 | **[Unity Student Plan](https://unity.com/products/unity-student)** | 全球 | SheerID / 学生认证 | **免费**，游戏开发与 3D 实时渲染引擎学生计划，计算机与数字媒体专业常用。 |
 | **[Sketch](https://www.sketch.com/education/)** | 全球 | 学校邮箱 / 学生证明 | **免费**，通过学生/教师身份验证后免费使用，macOS 下经典界面与原型设计工具。 |
 | **[Axure](https://www.axure.com/edu)** | 全球 | 学校邮箱 / 学生证明 | **免费**，产品经理与运营常用的专业原型设计工具，学生与教师免费。 |
@@ -130,8 +129,8 @@
 | **[flomo 教育优惠](https://flomoapp.com/)** | 中国大陆 | App/网页端提交证明 | 面向在校学生、高校教师及毕业 2 年内用户，PRO 会员 99 元/455 天、MAX 会员 249 元/年（会员中心 -> 教育优惠）。 |
 | **[Apple Music](https://tb.j5k6.com/1eH2l)** | 全球 / 中国大陆 | UNiDAYS / 支付宝学信网 | 高校学生认证后可享最长 **48 个月**学生订阅价；附带的 Apple TV 权益受地区限制（中国大陆服务清单不含 Apple TV 订阅）。 |
 | **[Spotify 学生优惠（香港区）](https://www.spotify.com/hk-zh/student/)** | 香港等支持地区 | SheerID | 香港区官网学生价 **HK$48/月**（标准个人版 HK$78/月），畅享 Premium 学生订阅。 |
-| **[YouTube Premium Student](https://www.youtube.com/premium/student)** | 海外支持地区 | SheerID（每年复核） | 首月免费试用 + 学生折扣月费，享无广告播放、后台播放及 YouTube Music（价格因地区而异）。 |
-| **[Amazon Prime Student](https://www.amazon.com/primestudent)** | 美/英/日/德等支持地区 | 学校邮箱 / 学生证明 | 享 **6 个月免费试用**，后续按标准 Prime 会员 **5 折**续费（含免邮与 Prime Video 等权益）。 |
+| **[YouTube Premium Student](https://www.youtube.com/premium/student)** | 海外支持地区 | SheerID（每年复核） | 享无广告播放、后台播放及 YouTube Music 的学生折扣月费（试用期与具体价格因国家/地区而异，以官网实时页面为准）。 |
+| **[Amazon Prime Student](https://www.amazon.com/primestudent)** | 美/英/日/德等支持地区 | 学校邮箱 / 学生证明 | 享学生专属试用期及后续 Prime 会员折扣（具体试用时长与折扣因国家/地区而异，以当地官网页面为准）。 |
 | **网易云音乐 黑胶 VIP 青春套餐** | 中国大陆 | App 内学生身份认证 | 在网易云音乐 App「会员中心」完成学生认证，享学生专享黑胶 VIP 折扣（实时月价以 App 为准）。 |
 | **QQ 音乐 学生认证会员** | 中国大陆 | App 内学信网/学生认证 | 在 QQ 音乐 App「会员中心 -> 学生专区」完成认证，享学生专享会员折扣（实时月价以 App 为准）。 |
 | **百度网盘学生会员** | 中国大陆 | 学信网 / 京东校园等合作渠道 | 通过学生身份认证可享 SVIP 学生年卡优惠（活动价约 148～158 元/年，原价 298 元/年）。 |
