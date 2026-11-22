@@ -60,6 +60,9 @@ Este repositorio recopila descuentos legítimos y beneficios gratuitos para estu
 | **[Zed Student](https://zed.dev/education)** | Global | Cuenta GitHub (30+ días) + Correo universitario | **1 año gratis de Zed Pro** para estudiantes universitarios elegibles (18+), con **$10/mes en créditos de IA** y predicciones de edición ilimitadas (algunos modelos avanzados pueden quedar excluidos). |
 | **[Google Gemini Oferta para Estudiantes](https://one.google.com/ai-student)** | Enfoque EE. UU. (varía por país) | SheerID + Cuenta/Método de pago | **La prueba gratuita de 12 meses de Google AI Pro está limitada actualmente a EE. UU.**; las ofertas en otros países varían según la campaña local ([ayuda oficial](https://support.google.com/googleone/answer/17422238)). |
 | **[Perplexity Education Pro](https://www.perplexity.ai/)** | Global | SheerID | **50 % de descuento** ($10/mes) pagando directamente en la web (`Upgrade -> Education`; no aplica vía App Store, Google Play ni PayPal), con Pro Search ilimitado. |
+| **[Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/platform/pricing/)** | Global (nivel gratuito) | Registro gratuito | **Cuota gratuita para desarrolladores**: **10,000 Neurons/día** gratis para inferencia de modelos de IA de código abierto. |
+| **[ElevenLabs](https://elevenlabs.io/pricing)** | Global (nivel gratuito) | Registro gratuito | **Nivel gratuito**: **10,000 créditos/mes** para síntesis de voz con IA. |
+| **[OpenRouter](https://openrouter.ai/)** | Global (nivel gratuito) | Registro gratuito | **Cuota gratuita para desarrolladores**: API unificada con acceso a varios LLM `:free` (sujeto a límites compartidos, p. ej., 50 solicitudes/día). |
 
 ---
 

@@ -61,6 +61,14 @@
 | **[Zed Student](https://zed.dev/education)** | 全球 | GitHub 账号（注册满 30 天）+ 高校邮箱 | 合资格高校学生（18+）可免费使用 **1 年 Zed Pro**，每月含 **$10 AI 额度**与无限编辑预测（部分高价旗舰模型不在免费额度池内；具体学校邮箱支持以验证为准）。 |
 | **[Google Gemini 学生计划](https://one.google.com/ai-student)** | 美国为主（视当地活动） | SheerID + 账号/付款方式 | **12 个月免费 Google AI Pro 试用目前限定美国**，其他地区的套餐与价格以当地活动页为准（详见 [官方说明](https://support.google.com/googleone/answer/17422238)）。 |
 | **[Perplexity Education Pro](https://www.perplexity.ai/)** | 全球 | SheerID | 在网页端左下角「Upgrade -> Education」认证后享 **5 折优惠**（$10/月，仅限官网网页端直接结算，不支持 App Store / Google Play / PayPal），支持无限次 Pro Search 与深度文献调研。 |
+| **[Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/platform/pricing/)** | 全球（个人免费额度） | 免费注册（无需学生认证） | **个人/开发者免费额度**：每天免费提供 **10,000 Neurons** 推理额度，适合轻量级开源模型 API 实验。 |
+| **[ElevenLabs](https://elevenlabs.io/pricing)** | 全球（个人免费额度） | 免费注册（无需学生认证） | **个人/开发者免费额度**：免费档每月提供 **10,000 积分** AI 语音合成与多语言配音额度。 |
+| **[OpenRouter](https://openrouter.ai/)** | 全球（个人免费额度） | 免费注册（无需学生认证） | **个人/开发者免费额度**：聚合多款 `:free` 免费大模型 API（免费账号共享每日 50 次 / 每分钟 20 次调用上限）。 |
+| **[阿里云百炼（Model Studio）](https://help.aliyun.com/zh/model-studio/new-free-quota)** | 中国大陆（个人/学生） | 阿里云实名 / 云工开物学生认证 | 新用户部分模型各送 **100 万 Token** 免费额度；通过云工开物认证的高校学生还可将 300 元抵扣金用于百炼模型调用（[学生说明](https://help.aliyun.com/zh/model-studio/introduction-to-yungongkaiwu)）。 |
+| **[火山方舟](https://docs.volcengine.com/docs/ark/free-inference-quota)** | 中国大陆（个人免费额度） | 火山引擎实名（无需学生认证） | **个人/开发者免费额度**：新用户指定豆包系列模型各赠送 **50 万免费推理 Token**。 |
+| **[魔搭社区（ModelScope）](https://www.modelscope.cn/posts/435591)** | 中国大陆（个人免费额度） | 免费注册（无需学生认证） | **个人/开发者免费额度**：每日赠送 **200 魔粒**，可用于免费调用社区托管的开源大模型 API。 |
+| **[硅基流动（SiliconFlow）](https://www.siliconflow.cn/pricing)** | 中国大陆（个人免费额度） | 实名注册（无需学生认证） | **个人/开发者免费额度**：提供多款 OCR、语音、向量及部分开源大模型的长期免费 API 调用。 |
+| **[字节 TRAE（国内版）](https://www.trae.cn/pricing)** | 中国大陆（个人免费额度） | 免费注册（无需学生认证） | **个人/开发者免费额度**：AI 代码编辑器，免费版每月提供 **500 积分**，桌面端每日签到可另领 100 积分（限 IDE 内使用）。 |
 
 ---
 

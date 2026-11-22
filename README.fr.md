@@ -60,6 +60,9 @@ Ce dépôt rassemble des réductions légitimes et des avantages gratuits réser
 | **[Zed Student](https://zed.dev/education)** | Mondial | Compte GitHub (30+ jours) + E-mail universitaire | **1 an gratuit de Zed Pro** pour les étudiants éligibles (18+), incluant **10 $/mois de crédits IA** et des prédictions d'édition illimitées (certains modèles phares peuvent être exclus). |
 | **[Google Gemini Offre Étudiante](https://one.google.com/ai-student)** | Principalement États-Unis (selon pays) | SheerID + Compte/Moyen de paiement | **L'essai gratuit de 12 mois à Google AI Pro est actuellement limité aux États-Unis** ; les offres dans les autres pays dépendent des campagnes locales ([aide officielle](https://support.google.com/googleone/answer/17422238)). |
 | **[Perplexity Education Pro](https://www.perplexity.ai/)** | Mondial | SheerID | **-50 %** (10 $/mois) via le paiement sur le site web (`Upgrade -> Education` ; non valable via App Store, Google Play ou PayPal), avec Pro Search illimité. |
+| **[Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/platform/pricing/)** | Mondial (offre gratuite) | Inscription gratuite | **Quota développeur gratuit** : **10 000 Neurons/jour** gratuits pour l'inférence de modèles IA open source. |
+| **[ElevenLabs](https://elevenlabs.io/pricing)** | Mondial (offre gratuite) | Inscription gratuite | **Offre gratuite** : **10 000 crédits/mois** pour la synthèse vocale par IA. |
+| **[OpenRouter](https://openrouter.ai/)** | Mondial (offre gratuite) | Inscription gratuite | **Quota développeur gratuit** : API unifiée donnant accès à plusieurs LLM `:free` (soumis aux limites partagées, ex. 50 requêtes/jour). |
 
 ---
 
