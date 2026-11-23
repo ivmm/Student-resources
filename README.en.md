@@ -30,7 +30,7 @@ This repository curates legitimate discounts and free perks available to verifie
 
 ### 🧭 Quick Navigation
 
-[🎒 Student Packs](#-student-packs) · [🤖 AI Tools](#-ai-tools) · [⌨️ Cloud Services](#️-cloud-services) · [💻 Hardware](#-hardware) · [💿 Software & Subscriptions](#-software--subscriptions) · [✈️ Travel](#️-travel) · [📝 Recommended Tools](#-recommended-tools)
+[🎒 Student Packs](#-student-packs) · [🤖 AI Tools](#-ai-tools) · [⌨️ Cloud Services](#️-cloud-services) · [💻 Hardware](#-hardware) · [💿 Software & Subscriptions](#-software--subscriptions) · [✈️ Travel](#️-travel) · [📝 Recommended Tools & Websites](#-recommended-tools--websites)
 
 ---
 
@@ -131,10 +131,16 @@ This repository curates legitimate discounts and free perks available to verifie
 
 ---
 
-## 📝 Recommended Tools
+## 📝 Recommended Tools & Websites
 
-| Tool | Description |
+| Tool / Website | Description |
 | :--- | :--- |
+| **[ScreenHello](https://screenhello.com)** | Free, local-first screenshot beautifier with backgrounds, browser frames, annotations, and compression—no uploads or signup required. |
+| **[Z8.Work](https://z8.work)** | Local in-browser batch file converter for images (WebP/AVIF), audio, documents, and PDF-to-image without uploading files. |
+| **[PkgSeek](https://pkgseek.com)** | Cross-distro package search engine across Debian, Ubuntu, Arch, Alpine, Fedora, FreeBSD, Homebrew, and more with versions, dependencies, and CVE data. |
+| **[AIPress.IM](https://aipress.im)** | Multilingual frontier AI intelligence portal tracking daily model launches, research papers, and industry shifts. |
+| **[aat.ee](https://www.aat.ee)** | Daily product launch discovery platform for startups, AI tools, and SaaS products. |
+| **[HiCyou](https://hicyou.com)** | Free SaaS directory for discovering curated tools and submitting indie startup projects. |
 | **[CloudConvert](https://cloudconvert.com/)** | Online file converter supporting 200+ formats. |
 | **[Smallpdf](https://smallpdf.com/)** | Online PDF conversion, compression, and editing toolkit. |
 | **[Canvas File Sync](https://github.com/drew-royster/canvasFileSync)** | Automatically syncs course files from Canvas LMS. |

@@ -30,7 +30,7 @@ Dieses Repository sammelt legale Rabatte und kostenlose Vorteile für Studierend
 
 ### 🧭 Schnellnavigation
 
-[🎒 Studentenpakete](#-studentenpakete) · [🤖 KI-Tools](#-ki-tools) · [⌨️ Cloud-Dienste](#️-cloud-dienste) · [💻 Hardware](#-hardware) · [💿 Software & Abos](#-software--abos) · [✈️ Reisen](#️-reisen) · [📝 Empfohlene Tools](#-empfohlene-tools)
+[🎒 Studentenpakete](#-studentenpakete) · [🤖 KI-Tools](#-ki-tools) · [⌨️ Cloud-Dienste](#️-cloud-dienste) · [💻 Hardware](#-hardware) · [💿 Software & Abos](#-software--abos) · [✈️ Reisen](#️-reisen) · [📝 Empfohlene Tools & Websites](#-empfohlene-tools--websites)
 
 ---
 
@@ -131,10 +131,16 @@ Dieses Repository sammelt legale Rabatte und kostenlose Vorteile für Studierend
 
 ---
 
-## 📝 Empfohlene Tools
+## 📝 Empfohlene Tools & Websites
 
-| Tool | Beschreibung |
+| Tool / Website | Beschreibung |
 | :--- | :--- |
+| **[ScreenHello](https://screenhello.com)** | Kostenloser, lokaler Online-Screenshot-Editor mit Hintergründen, Browser-Rahmen, Annotationen und Komprimierung ohne Upload oder Registrierung. |
+| **[Z8.Work](https://z8.work)** | Lokaler Stapel-Dateikonverter direkt im Browser für Bilder (WebP/AVIF), Audio, Dokumente und PDF-zu-Bild ohne Datei-Upload. |
+| **[PkgSeek](https://pkgseek.com)** | Distributionsübergreifende Paketsuche für Debian, Ubuntu, Arch, Alpine, Fedora, FreeBSD, Homebrew u. a. inkl. Versionen, Abhängigkeiten und CVEs. |
+| **[AIPress.IM](https://aipress.im)** | Mehrsprachiges KI-Nachrichtenportal mit täglichen Briefings zu neuen Modellen, Forschungspapieren und Branchentrends. |
+| **[aat.ee](https://www.aat.ee)** | Plattform für tägliche Produkt-Launches rund um Startups, KI-Tools und SaaS-Produkte. |
+| **[HiCyou](https://hicyou.com)** | Kostenloses SaaS-Verzeichnis zum Entdecken kuratierter Tools und Einreichen eigener Projekte. |
 | **[CloudConvert](https://cloudconvert.com/)** | Online-Dateikonverter für über 200 Formate. |
 | **[Smallpdf](https://smallpdf.com/)** | Online-Toolkit zum Konvertieren, Komprimieren und Bearbeiten von PDFs. |
 | **[Canvas File Sync](https://github.com/drew-royster/canvasFileSync)** | Synchronisiert automatisch Kursdateien aus Canvas LMS. |
