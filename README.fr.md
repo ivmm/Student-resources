@@ -30,7 +30,7 @@ Ce dépôt rassemble des réductions légitimes et des avantages gratuits réser
 
 ### 🧭 Navigation rapide
 
-[🎒 Packs Étudiants](#-packs-étudiants) · [🤖 Outils IA](#-outils-ia) · [⌨️ Services Cloud](#️-services-cloud) · [💻 Matériel](#-matériel) · [💿 Logiciels & Abonnements](#-logiciels--abonnements) · [✈️ Voyages](#️-voyages) · [📝 Outils recommandés](#-outils-recommandés)
+[🎒 Packs Étudiants](#-packs-étudiants) · [🤖 Outils IA](#-outils-ia) · [⌨️ Services Cloud](#️-services-cloud) · [💻 Matériel](#-matériel) · [💿 Logiciels & Abonnements](#-logiciels--abonnements) · [✈️ Voyages](#️-voyages) · [📝 Outils & Sites recommandés](#-outils--sites-recommandés)
 
 ---
 
@@ -131,10 +131,16 @@ Ce dépôt rassemble des réductions légitimes et des avantages gratuits réser
 
 ---
 
-## 📝 Outils recommandés
+## 📝 Outils & Sites recommandés
 
-| Outil | Description |
+| Outil / Site | Description |
 | :--- | :--- |
+| **[ScreenHello](https://screenhello.com)** | Éditeur de captures d'écran gratuit et local-first (arrière-plans, cadres navigateur, annotations, compression) sans téléversement ni inscription. |
+| **[Z8.Work](https://z8.work)** | Convertisseur de fichiers par lots 100 % local dans le navigateur (images WebP/AVIF, audio, documents, PDF vers images) sans envoi serveur. |
+| **[PkgSeek](https://pkgseek.com)** | Moteur de recherche de paquets multi-distributions (Debian, Ubuntu, Arch, Alpine, Fedora, FreeBSD, Homebrew…) avec versions, dépendances et CVE. |
+| **[AIPress.IM](https://aipress.im)** | Portail multilingue de veille IA suivant quotidiennement les lancements de modèles, articles de recherche et actualités du secteur. |
+| **[aat.ee](https://www.aat.ee)** | Plateforme quotidienne de découverte de nouveaux produits (startups, outils IA et SaaS). |
+| **[HiCyou](https://hicyou.com)** | Annuaire SaaS gratuit pour explorer des outils sélectionnés et soumettre gratuitement ses projets. |
 | **[CloudConvert](https://cloudconvert.com/)** | Convertisseur de fichiers en ligne prenant en charge plus de 200 formats. |
 | **[Smallpdf](https://smallpdf.com/)** | Boîte à outils en ligne pour convertir, compresser et éditer des PDF. |
 | **[Canvas File Sync](https://github.com/drew-royster/canvasFileSync)** | Synchronisation automatique des supports de cours depuis Canvas LMS. |

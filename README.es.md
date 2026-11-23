@@ -30,7 +30,7 @@ Este repositorio recopila descuentos legítimos y beneficios gratuitos para estu
 
 ### 🧭 Navegación rápida
 
-[🎒 Paquetes para Estudiantes](#-paquetes-para-estudiantes) · [🤖 Herramientas de IA](#-herramientas-de-ia) · [⌨️ Servicios en la Nube](#️-servicios-en-la-nube) · [💻 Hardware](#-hardware) · [💿 Software y Suscripciones](#-software-y-suscripciones) · [✈️ Viajes](#️-viajes) · [📝 Herramientas Recomendadas](#-herramientas-recomendadas)
+[🎒 Paquetes para Estudiantes](#-paquetes-para-estudiantes) · [🤖 Herramientas de IA](#-herramientas-de-ia) · [⌨️ Servicios en la Nube](#️-servicios-en-la-nube) · [💻 Hardware](#-hardware) · [💿 Software y Suscripciones](#-software-y-suscripciones) · [✈️ Viajes](#️-viajes) · [📝 Herramientas y Sitios Recomendados](#-herramientas-y-sitios-recomendados)
 
 ---
 
@@ -131,10 +131,16 @@ Este repositorio recopila descuentos legítimos y beneficios gratuitos para estu
 
 ---
 
-## 📝 Herramientas Recomendadas
+## 📝 Herramientas y Sitios Recomendados
 
-| Herramienta | Descripción |
+| Herramienta / Sitio | Descripción |
 | :--- | :--- |
+| **[ScreenHello](https://screenhello.com)** | Editor gratuito y local-first para embellecer capturas de pantalla (fondos, marcos de navegador, anotaciones y compresión) sin subir archivos ni registrarse. |
+| **[Z8.Work](https://z8.work)** | Conversor de archivos por lotes local en el navegador (imágenes WebP/AVIF, audio, documentos y PDF a imagen) sin subir archivos a la nube. |
+| **[PkgSeek](https://pkgseek.com)** | Buscador de paquetes multi-distribución para Debian, Ubuntu, Arch, Alpine, Fedora, FreeBSD, Homebrew y más, con versiones, dependencias y CVE. |
+| **[AIPress.IM](https://aipress.im)** | Portal multilingüe de inteligencia y actualidad de IA que resume diariamente lanzamientos de modelos, artículos y novedades del sector. |
+| **[aat.ee](https://www.aat.ee)** | Plataforma diaria de lanzamientos para descubrir startups, herramientas de IA y productos SaaS. |
+| **[HiCyou](https://hicyou.com)** | Directorio gratuito de SaaS para explorar herramientas seleccionadas y enviar proyectos propios gratis. |
 | **[CloudConvert](https://cloudconvert.com/)** | Conversor de archivos en línea compatible con más de 200 formatos. |
 | **[Smallpdf](https://smallpdf.com/)** | Herramientas en línea para convertir, comprimir y editar PDF. |
 | **[Canvas File Sync](https://github.com/drew-royster/canvasFileSync)** | Sincroniza automáticamente archivos de cursos desde Canvas LMS. |
